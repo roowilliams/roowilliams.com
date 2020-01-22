@@ -1,8 +1,22 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `Roo Williams`,
+    titleTemplate: "%s / Roo Williams",
+    url: "https://roowilliams.com",
+    description: `Portfolio and blog of Roo Williams - designer and maker of digital and physical things.`,
+    author: `@roowilliams`,
+    twitterUsername: "@roowilliams",
+    instagramUsername: "@roowilliams",
+    menuLinks: [
+      {
+        name: "home",
+        link: "/",
+      },
+      {
+        name: "blog",
+        link: "/blog",
+      },
+    ],
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -13,6 +27,14 @@ module.exports = {
         path: `${__dirname}/src/images`,
       },
     },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `markdown-pages`,
+        path: `${__dirname}/src/blog-posts`,
+      },
+    },
+    `gatsby-transformer-remark`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
