@@ -1,6 +1,6 @@
 ---
 path: "/blog/my-first-post"
-date: "2012-01-20"
+date: "2020-01-20"
 title: "My first blog post"
 keywords:
   - one

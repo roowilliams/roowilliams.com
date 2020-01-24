@@ -1,6 +1,8 @@
 import React from "react"
 import { graphql } from "gatsby"
 import styled from "styled-components"
+import { Helmet } from "react-helmet"
+
 import PostLink from "../components/postlink"
 
 import Layout from "../components/layout"
@@ -23,7 +25,7 @@ const IndexPage = ({
 
   return (
     <Layout>
-      <div>{Posts}</div>
+      <Container>{Posts}</Container>
     </Layout>
   )
 }

@@ -7,6 +7,7 @@ import Layout from "../components/layout"
 const Container = styled.div`
   max-width: 680px;
   margin: 0 auto;
+  padding: 3rem 0 2rem;
 `
 const Post = styled.div``
 const Title = styled.h1``

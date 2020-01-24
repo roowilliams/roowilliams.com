@@ -1,17 +1,17 @@
 import React from "react"
 import { Link } from "gatsby"
 import styled from "styled-components"
+import { Title, Date, Summary } from "./typography"
 
 const StyledLink = styled(Link)`
   text-decoration: none;
-`
-const Container = styled.div``
-const Title = styled.h1`
   color: rgba(0, 0, 0, 0.8);
 `
+const Container = styled.div`
+  margin-bottom: 3rem;
+  max-width: 34rem;
+`
 
-const Summary = styled.div``
-const Date = styled.time``
 const Content = styled.div``
 
 const PostLink = ({ post }) => (

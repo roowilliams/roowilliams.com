@@ -11,12 +11,11 @@ import { useStaticQuery, graphql } from "gatsby"
 import styled from "styled-components"
 
 import Header from "./header"
+import Footer from "./footer"
 import "./layout.css"
 
 const Container = styled.div`
   margin: 0 auto;
-  max-width: 1032px;
-  padding: 3rem 1.0875rem 1.45rem;
 `
 
 const Main = styled.main``
@@ -37,12 +36,8 @@ const Layout = ({ children }) => {
       <Header siteTitle={data.site.siteMetadata.title} />
       <Container>
         <Main>{children}</Main>
-        <footer>
-          © {new Date().getFullYear()}, Built with
-          {` `}
-          <a href="https://www.gatsbyjs.org">Gatsby</a>
-        </footer>
       </Container>
+      <Footer />
     </>
   )
 }
