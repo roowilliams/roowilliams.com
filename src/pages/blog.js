@@ -6,13 +6,9 @@ import { Helmet } from "react-helmet"
 import PostLink from "../components/postlink"
 
 import Layout from "../components/layout"
-// import SEO from "../components/seo"
+import SEO from "../components/seo"
 
 const Container = styled.div``
-const Post = styled.div``
-const Title = styled.h1``
-const Date = styled.h2``
-const Content = styled.div``
 
 const IndexPage = ({
   data: {
@@ -25,6 +21,7 @@ const IndexPage = ({
 
   return (
     <Layout>
+      <SEO title="Blog" />
       <Container>{Posts}</Container>
     </Layout>
   )

@@ -1,7 +1,6 @@
 module.exports = {
   siteMetadata: {
     title: `Roo Williams`,
-    titleTemplate: "%s / Roo Williams",
     url: "https://roowilliams.com",
     description: `Portfolio and blog of Roo Williams - designer and maker of digital and physical things.`,
     author: `@roowilliams`,
