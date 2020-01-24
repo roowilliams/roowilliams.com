@@ -7,9 +7,9 @@ import { Title, Date } from "../components/typography"
 import SEO from "../components/seo"
 
 const Container = styled.div`
-  max-width: 680px;
+  max-width: 700px;
   margin: 0 auto;
-  padding: 3rem 0 2rem;
+  padding: 3rem 2rem 2rem;
 `
 const Post = styled.div``
 const Content = styled.div`

@@ -9,7 +9,7 @@ import { SectionHeader } from "../components/typography"
 import SEO from "../components/seo"
 
 const Container = styled.section`
-  padding: 3rem 0 2rem;
+  padding: 3rem 2rem 2rem;
   ${props => props.withColor && `background-color: ${props.withColor};`}
 `
 const Content = styled.div`
