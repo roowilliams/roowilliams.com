@@ -1,7 +1,6 @@
 import React from "react"
 import { graphql } from "gatsby"
 import styled from "styled-components"
-import { Helmet } from "react-helmet"
 
 import PostLink from "../components/postlink"
 
@@ -39,7 +38,6 @@ export const pageQuery = graphql`
             date(formatString: "MMM DD YYYY")
             path
             title
-            keywords
           }
         }
       }
