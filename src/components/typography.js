@@ -16,6 +16,7 @@ export const Summary = styled.div`
 `
 
 export const SectionHeader = styled.h2`
+  margin: 1rem 0;
   font-size: 1.2rem;
   font-weight: 300;
   color: rgba(50, 50, 50, 0.7);

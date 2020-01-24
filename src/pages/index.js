@@ -1,12 +1,14 @@
 import React from "react"
 import { Link } from "gatsby"
 import styled, { withTheme } from "styled-components"
+import SEO from "../components/seo"
 
 import Layout from "../components/layout"
 import Image from "../components/image"
 import PostLink from "../components/postlink"
 import { SectionHeader } from "../components/typography"
-import SEO from "../components/seo"
+import { SocialIcon } from "react-social-icons"
+import bg from "../images/section-bg.svg"
 
 const Container = styled.section`
   padding: 3rem 2rem 2rem;
@@ -17,8 +19,8 @@ const Content = styled.div`
   margin: 0 auto;
 `
 
-const Section = ({ children, withColor }) => (
-  <Container withColor={withColor}>
+const Section = ({ children, withColor, style }) => (
+  <Container withColor={withColor} style={style}>
     <Content>{children}</Content>
   </Container>
 )
@@ -49,6 +51,20 @@ const IndexPage = ({
           About
         </SectionHeader>
         <p style={{ color: "rgba(255,255,255,0.4)" }}>Coming soon...</p>
+        <SocialIcon
+          url="https://instagram.com/roowilliams"
+          bgColor="rgba(255,255,255,0.4)"
+          style={{ height: 41, width: 41, marginRight: 10 }}
+          target="_blank"
+          rel="noopener noreferrer"
+        />
+        <SocialIcon
+          url="https://twitter.com/roowilliams"
+          bgColor="rgba(255,255,255,0.4)"
+          style={{ height: 41, width: 41, marginRight: 10 }}
+          target="_blank"
+          rel="noopener noreferrer"
+        />
       </Section>
     </Layout>
   )
