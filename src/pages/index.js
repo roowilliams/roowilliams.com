@@ -50,7 +50,12 @@ const IndexPage = ({
         <SectionHeader style={{ color: "rgba(255,255,255,0.4)" }}>
           About
         </SectionHeader>
-        <p style={{ color: "rgba(255,255,255,0.4)" }}>Coming soon...</p>
+        <p style={{ color: "rgba(255,255,255,0.4)" }}>
+          British maker of physical and digital things living in Portland,
+          Oregon. London and New York previously.
+          <br />
+          On a mission to reconnect humans with nature. Working on this site rn.
+        </p>
         <SocialIcon
           url="https://instagram.com/roowilliams"
           bgColor="rgba(255,255,255,0.4)"
