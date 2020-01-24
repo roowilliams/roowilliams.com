@@ -3,6 +3,7 @@ import { graphql } from "gatsby"
 import styled from "styled-components"
 
 import Layout from "../components/layout"
+import { Title, Date } from "../components/typography"
 
 const Container = styled.div`
   max-width: 680px;
@@ -10,8 +11,6 @@ const Container = styled.div`
   padding: 3rem 0 2rem;
 `
 const Post = styled.div``
-const Title = styled.h1``
-const Date = styled.time``
 const Content = styled.div`
   margin: 3rem 0;
 `
