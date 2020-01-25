@@ -15,10 +15,15 @@ module.exports = {
         name: "blog",
         link: "/blog",
       },
+      {
+        name: "projects",
+        link: "/projects",
+      },
     ],
   },
   plugins: [
     `gatsby-plugin-styled-components`,
+    `gatsby-plugin-favicon`,
     `gatsby-plugin-react-helmet`,
     {
       resolve: `gatsby-source-filesystem`,
@@ -30,8 +35,15 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: `markdown-pages`,
+        name: `blog-posts`,
         path: `${__dirname}/src/blog-posts`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `projects`,
+        path: `${__dirname}/src/projects`,
       },
     },
     `gatsby-transformer-remark`,

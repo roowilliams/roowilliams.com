@@ -1,4 +1,5 @@
 import React from "react"
+import { graphql } from "gatsby"
 import { Link } from "gatsby"
 import styled, { withTheme } from "styled-components"
 import SEO from "../components/seo"
@@ -30,8 +31,21 @@ const IndexPage = ({
     allMarkdownRemark: { edges },
   },
 }) => {
-  const posts = edges
-    .filter(edge => !!edge.node.frontmatter.date) // You can filter your posts based on some criteria
+  console.log(edges)
+  const blogPosts = edges
+    .filter(
+      edge =>
+        edge.node.frontmatter.path.match(/^\/([^\/]*).*$/, "$1")[1] ===
+          "blog" && !!edge.node.frontmatter.date
+    ) // You can filter your posts based on some criteria
+    .map(edge => <PostLink key={edge.node.id} post={edge.node} />)
+
+  const projects = edges
+    .filter(
+      edge =>
+        edge.node.frontmatter.path.match(/^\/([^\/]*).*$/, "$1")[1] ===
+          "project" && !!edge.node.frontmatter.date
+    ) // You can filter your posts based on some criteria
     .map(edge => <PostLink key={edge.node.id} post={edge.node} />)
 
   return (
@@ -39,11 +53,11 @@ const IndexPage = ({
       <SEO title="Home" />
       <Section withColor={`rgb(241, 241, 237)`}>
         <SectionHeader>Recent Blog Posts</SectionHeader>
-        {posts}
+        {blogPosts}
       </Section>
       <Section>
         <SectionHeader>Projects</SectionHeader>
-        <p>Coming soon...</p>
+        {projects}
       </Section>
 
       <Section withColor={`rgb(26, 27, 29)`}>
