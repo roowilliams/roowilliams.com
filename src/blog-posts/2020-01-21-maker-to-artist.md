@@ -2,6 +2,7 @@
 path: "/blog/maker-to-artist"
 date: "2020-01-23"
 title: "Maker to Artist"
+hero-image-src: "/images/maker-to-artist.png"
 ---
 
 As a maker, I am intrigued by other people's creations. When I view something another human has created, one of the facets I like to examine of a human output eg. a piece of art, is the technical realisation of the piece.

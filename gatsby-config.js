@@ -46,6 +46,12 @@ module.exports = {
         path: `${__dirname}/src/projects`,
       },
     },
+    {
+      resolve: `gatsby-plugin-disqus`,
+      options: {
+        shortname: `roowilliams`,
+      },
+    },
     `gatsby-transformer-remark`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
