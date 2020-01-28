@@ -38,15 +38,19 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
     return
   }
   result.data.allMarkdownRemark.edges.forEach(({ node }) => {
-    const contentType = node.frontmatter.path.match(/^\/([^\/]*).*$/, "$1")[0]
+    const contentType = node.frontmatter.path.match(/^\/([^\/]*).*$/, "$1")[1]
     // const fileNode = getNode(node.parent)
-    let template = blogPostTemplate
+    let template = null
+    console.log(contentType)
     switch (contentType) {
       case "blog":
         template = blogPostTemplate
         break
       case "project":
         template = projectTemplate
+        break
+      default:
+        template = blogPostTemplate
         break
     }
 
