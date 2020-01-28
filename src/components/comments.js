@@ -14,7 +14,7 @@ const Comments = ({ post }) => {
   `)
 
   let disqusConfig = {
-    url: `${data.site.siteMetadata.url + window.location.pathname}`,
+    url: `${data.site.siteMetadata.url + post.path}`,
     identifier: post.id,
     title: post.title,
   }
