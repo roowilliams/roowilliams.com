@@ -18,8 +18,10 @@ const PostLink = ({ post }) => (
   <Container>
     <StyledLink to={post.frontmatter.path}>
       <Title>{post.frontmatter.title}</Title>
+    </StyledLink>
+    <Date>{post.frontmatter.date}</Date>
+    <StyledLink to={post.frontmatter.path}>
       <Summary>{post.excerpt}</Summary>
-      <Date>{post.frontmatter.date}</Date>
     </StyledLink>
   </Container>
 )

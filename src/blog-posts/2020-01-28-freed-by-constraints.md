@@ -5,7 +5,7 @@ title: "Freed by Constraints"
 hero-image-src: "/images/maker-to-artist.png"
 ---
 
-An integral part to becoming an artist means attempting to give shape to your creative output. As someone brand new to the life of an artist, I am finding that having the time and resources to make anything means it's so easy to jump from one thing to another and actually achieve nothing.
+An integral part to becoming an artist means attempting to give shape to your creative output. As someone brand new to a full-time artistic effort, I am finding that having the time and resources to make anything means it's so easy to jump from one thing to another and actually achieve nothing.
 
 I want nothing more than to get started and run with this exciting new effort but somehow feel blocked. Ideas are just too big, too fuzzy and it's hard to see where to start.
 
