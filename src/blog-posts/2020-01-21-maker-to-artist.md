@@ -58,7 +58,8 @@ The truth is, I've always wanted to become an artist.
 
 I feel like the "I could have built this" thought was actually just a well-intentioned piece of self-talk to try and push me to do my own thing. We want nothing more than to express ourselves, fully. As a maker, I feel like executing artistic output might be the easiest part, but uncovering what a true expression of the self is involves digging deep under years of conditioning and noise.
 
-##What Next?
+## What Next?
+
 Now is the time to reconnect with my inner nerdy child.
 
 My hope is that by finding that which is important to me and intersecting it with the skills I have built over the years will result in a venture that can generate a steady and substantial income when it will be my turn to support my wife, and a family.

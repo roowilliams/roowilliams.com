@@ -41,7 +41,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
     const contentType = node.frontmatter.path.match(/^\/([^\/]*).*$/, "$1")[1]
     // const fileNode = getNode(node.parent)
     let template = null
-    console.log(contentType)
+
     switch (contentType) {
       case "blog":
         template = blogPostTemplate

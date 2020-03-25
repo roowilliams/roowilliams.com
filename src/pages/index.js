@@ -22,9 +22,8 @@ const Section = ({ children, withColor, style }) => (
   </Container>
 )
 
-const getPosts = (edges, postType) => {
-  console.log(edges)
-  return edges
+const getPosts = (edges, postType) =>
+  edges
     .filter(
       edge =>
         edge.node.frontmatter.path.match(/^\/([^\/]*).*$/, "$1")[1] ===
@@ -33,7 +32,7 @@ const getPosts = (edges, postType) => {
         edge.node.frontmatter.publish
     )
     .map(edge => <PostLink key={edge.node.id} post={edge.node} />)
-}
+
 const IndexPage = ({
   data: {
     allMarkdownRemark: { edges },
