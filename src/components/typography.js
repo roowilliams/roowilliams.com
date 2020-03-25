@@ -1,4 +1,3 @@
-import React from "react"
 import styled from "styled-components"
 
 // doesn't apply to markdown pages since only html tags are generated

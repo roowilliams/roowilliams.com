@@ -3,6 +3,7 @@ path: "/blog/maker-to-artist"
 date: "2020-01-23"
 title: "Maker to Artist"
 hero-image-src: "/images/maker-to-artist.png"
+publish: true
 ---
 
 As a maker, I am intrigued by other people's creations. When I view something another human has created, one of the facets I like to examine of a human output eg. a piece of art, is the technical realisation of the piece.
@@ -15,14 +16,16 @@ There are many successful artists that don't have the technical ability to execu
 If a talented maker could replicate an artist's work then what's the difference between the two?  
 Please humour me as I stumble through this.
 
-##What is an Artist?
+## What is an Artist?
+
 The way I see it, anyone that is able to create something uniquely true to themselves is an artist. When an artist creates a consistent body of work, they're able to imagine and create a unique 'world', communicating that world in a way that that allows others to experience it. Their output could be a collection of drawings made with pencils, a sculpture, or in some instances, a business venture. It might exist to say something about something, or not. It might even intentionally try to coax people to form their own interpretations. True art is as unique as the person that created it, maybe not in execution, eg. Warhol, but in the _WHY?_.
 
 Artists have connected with at least a fragment of their inner desires and have found a medium in which to express them. They push parameters of the cultural envelope and so are the people we see written up in publications. They're the people we follow, would love to work with, and aspire to be.
 
 For a maker, it's an enviable position to be in.
 
-##What is a Maker?
+## What is a Maker?
+
 I am a maker. I was a self-taught graphic designer that formally studied product design, taught myself to code, use digital fabrication tools like 3D printers, create interactive experiments using micro-controllers and electronic components and make many things with my hands. I have spent weekends and evenings tinkering with materials, tools and technologies, pushed along by curiosity and enjoying the benefits of all the maker tools available to us during the Anthropocene to no useful effect other than self-education. I have also semi-successfully managed to make a very decent living by making to answer briefs within a commercial context.
 
 For me, being a maker meant producing things that contribute to someone else's vision.
@@ -38,7 +41,8 @@ The artist is working towards the process of connecting with, and expressing the
 The maker takes on projects with a lifecycle and uses their talents to produce results. The right project could have aspects to it that make them curious, but it is an occupation.  
 They both need to earn money - the path to that is more straight forward for the maker, and less easy for the artist.
 
-##Why Am I a Maker?
+## Why Am I a Maker?
+
 Leaving the stable world of university with a life built in London, UK propped up by student finance I needed to find work right away. I had to get a job in an industry that wanted my skills. It was tough and a lot of my peers struggled to get work worthy of their education. I was diligent and lucky enough to get a foothold within the advertising industry, starting with a paid internship.
 
 8 years later, despite some interesting projects, I still never really felt fulfilled there. I would tell myself that advertising helps spread ideas and one day I will be able to use the skills I was developing for good. Ultimately we were still just trying to motivate people to buy products. The more product sold, the better, and as someone conscious of consumerism and environmental issues, I could never really find the hook that justified what I was doing, other than "you gotta start somewhere".

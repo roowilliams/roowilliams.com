@@ -3,6 +3,7 @@ path: "/blog/freed-by-constraints"
 date: "2020-01-28"
 title: "Freed by Constraints"
 hero-image-src: "/images/maker-to-artist.png"
+publish: true
 ---
 
 An integral part to becoming an artist means attempting to give shape to your creative output. As someone brand new to a full-time artistic effort, I am finding that having the time and resources to make anything means it's so easy to jump from one thing to another and actually achieve nothing.

@@ -1,19 +1,15 @@
 import React from "react"
 import { graphql } from "gatsby"
-import { Link } from "gatsby"
-import styled, { withTheme } from "styled-components"
+import styled from "styled-components"
 import SEO from "../components/seo"
 
 import Layout from "../components/layout"
-import Image from "../components/image"
 import PostLink from "../components/postlink"
 import { SectionHeader } from "../components/typography"
 import { SocialIcon } from "react-social-icons"
-import bg from "../images/section-bg.svg"
 
 const Container = styled.section`
   padding: 3rem 2rem 2rem;
-  ${props => props.withColor && `background-color: ${props.withColor};`}
 `
 const Content = styled.div`
   max-width: 1032px;
@@ -26,32 +22,27 @@ const Section = ({ children, withColor, style }) => (
   </Container>
 )
 
+const getPosts = (edges, postType) =>
+  edges
+    .filter(
+      edge =>
+        edge.node.frontmatter.path.match(/^\/([^\/]*).*$/, "$1")[1] ===
+          postType && !!edge.node.frontmatter.date
+    )
+    .map(edge => <PostLink key={edge.node.id} post={edge.node} />)
+
 const IndexPage = ({
   data: {
     allMarkdownRemark: { edges },
   },
 }) => {
-  console.log(edges)
-  const blogPosts = edges
-    .filter(
-      edge =>
-        edge.node.frontmatter.path.match(/^\/([^\/]*).*$/, "$1")[1] ===
-          "blog" && !!edge.node.frontmatter.date
-    ) // You can filter your posts based on some criteria
-    .map(edge => <PostLink key={edge.node.id} post={edge.node} />)
-
-  const projects = edges
-    .filter(
-      edge =>
-        edge.node.frontmatter.path.match(/^\/([^\/]*).*$/, "$1")[1] ===
-          "project" && !!edge.node.frontmatter.date
-    ) // You can filter your posts based on some criteria
-    .map(edge => <PostLink key={edge.node.id} post={edge.node} />)
+  const blogPosts = getPosts(edges, "blog")
+  const projects = getPosts(edges, "project")
 
   return (
     <Layout>
       <SEO title="Home" />
-      <Section withColor={`rgb(241, 241, 237)`}>
+      <Section style={{ backgroundColor: `rgb(241, 241, 237)` }}>
         <SectionHeader>Recent Blog Posts</SectionHeader>
         {blogPosts}
       </Section>

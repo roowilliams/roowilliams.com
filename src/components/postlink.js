@@ -12,8 +12,6 @@ const Container = styled.div`
   max-width: 34rem;
 `
 
-const Content = styled.div``
-
 const PostLink = ({ post }) => (
   <Container>
     <StyledLink to={post.frontmatter.path}>
