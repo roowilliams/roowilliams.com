@@ -22,7 +22,7 @@ In the modern world being unfocused has gotten me in trouble, made connecting so
 
 But it's not all bad! This trait does offer some benefits. I have built a generalist skillset where I know a bit about a lot because I am addicted to learning. I'm ahead of the curve with my knowledge of technology because I'm always looking for the new and what next. It has been acknowledged that I am very observant, able to spot problems quickly and respond quickly with solutions without having to draw on others. This all evidences why I've had some unique, enviable and very rare work positions designing and building prototypes to help companies innovate.
 
-[^1]: my thesis project was even submitted unfinished but still got me a first which I believe was due to my tutors never have seen a student use an Arduino before.
+[^1]: my thesis project was even submitted unfinished but still got me a first which I believe was due to my early adoption and incorporation of Arduino - something my tutors hadn't seen before.
 
 ## I CAN Focus
 
