@@ -6,7 +6,10 @@ hero-image-src: "/images/maker-to-artist.png"
 publish: true
 ---
 
-My school reports always read the same; variations of "Andrew is a bright lad but he's very distracting to himself and others."
+My school reports always read the same; a variation of:
+
+> "Andrew is a bright lad but he's very distracting to himself and others"
+
 In the classroom, mine was the single table and chair in the corner, away from the group tables shared by others.
 Anyone that has a conversation with me will have noticed I often tend to spin up multiple topic threads and jump between them, all while my eyes dart from one thing to another in the periphery as we talk.
 I could be having the most intense argument with my wife and while doing my best to hear her out and maintain eye contact but I have noticed a household problem that needs fixing in the background and my brain has left the conversation to design a fix. I always have multiple books on the go and rarely finish one, an impressive back-catalogue of half-started projects and when writing with a pen it's like my brain races ahead and I'll write the "followign" letter of a word, or a letter 3 places ahead instead of the correct one.
