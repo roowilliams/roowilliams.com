@@ -6,9 +6,16 @@ hero-image-src: "/images/maker-to-artist.png"
 publish: false
 ---
 
-After years of struggling to remain focused on projects and fighting the urges to constantly jump from one thing and learn a new thing, I had initially felt freed by a new definition of wanting to become an artist. Finally I was going to be able to work with my creative whims instead of trying to wrangle and control them!
+Like many, I have always struggled to focus and remain focused on one thing. At school I was always placed on a table of my own due to distracting my peers and pulling them away from being taught. Anyone that has a conversation with me will notice I often tend to spin up multiple threads of conversation that we need to jump between to get anything exchanged, all while my eyes dart from one thing to another in the periphery. When writing words with a pen I'll write the following letter before the correct one.
 
-My hope was by sitting down every day to imagine and create smaller things that made me feel something aesthetically, I would be able to get them done and analyze the trail created by these artifacts to discover insights and gain clarity in finding what it is I really want to make. That would provide me the motivation to focus across the lifecycle of bigger and bigger projects, carve a niche and make a name for myself.
+Against my will, this behavior even endangers me. I could be having the most intense argument with my wife, and while doing my best to not disrespect her with a loss of eye contact I have noticed a household problem that needs fixing in the background and my brain has left the conversation to do that.
+This trait, while offering some benefits like making me observant, quick to spot problems and offer myriad solutions has deeply affected my ability to function in our modern world. I have joked that if I'd been born a couple of millenniums prior then these skills would have made me an adept survivor and hunter/gatherer. complete tasks of all scales especially when it comes to work and creative output.
+
+On the other hand, I am extremely faddy, and when I happen upon some insight or activity that catches my attention and seems will help me make progress in life, I REALLY go to town on
+
+on projects and fought urges to constantly jump from one thing to another in pursuit of success. I had initially felt freed by a new definition of wanting to become an artist. Finally I was going to be able to work with my creative whims instead of trying to wrangle and control them.
+
+After reading The War of Art by Stephen Pressfield long ago, I had internalized the belief that by sitting down every day to imagine and create smaller things that made me feel something aesthetically, I would be able to get them done and analyze the trail created by these artifacts to discover insights and gain clarity in finding what it is I really want to make. That would provide me the motivation to focus across the lifecycle of bigger and bigger projects, carve a niche and make a name for myself.
 
 I began following abstract artists on Instagram, meeting other artists in my local community and picking their brains to figure out why they do what they do, what constitutes a piece of art and felt encouraged by stories of success they've had in getting people to pay them for pieces. I hoped that my main focus would become art and in a relatively short time I might find my voice and I too, could start producing things that people would be willing to pay for.
 

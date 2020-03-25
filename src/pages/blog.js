@@ -19,7 +19,6 @@ const IndexPage = ({
       edge => !!edge.node.frontmatter.date && edge.node.frontmatter.publish
     ) // You can filter your posts based on some criteria
     .map(edge => <PostLink key={edge.node.id} post={edge.node} />)
-
   return (
     <Layout>
       <SEO title="Blog" />
@@ -43,6 +42,7 @@ export const pageQuery = graphql`
             date(formatString: "MMM DD YYYY")
             path
             title
+            publish
           }
         }
       }

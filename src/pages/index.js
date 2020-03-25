@@ -22,15 +22,18 @@ const Section = ({ children, withColor, style }) => (
   </Container>
 )
 
-const getPosts = (edges, postType) =>
-  edges
+const getPosts = (edges, postType) => {
+  console.log(edges)
+  return edges
     .filter(
       edge =>
         edge.node.frontmatter.path.match(/^\/([^\/]*).*$/, "$1")[1] ===
-          postType && !!edge.node.frontmatter.date
+          postType &&
+        !!edge.node.frontmatter.date &&
+        edge.node.frontmatter.publish
     )
     .map(edge => <PostLink key={edge.node.id} post={edge.node} />)
-
+}
 const IndexPage = ({
   data: {
     allMarkdownRemark: { edges },
@@ -93,6 +96,7 @@ export const pageQuery = graphql`
             date(formatString: "MMM DD YYYY")
             path
             title
+            publish
           }
         }
       }
