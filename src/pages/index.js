@@ -27,7 +27,7 @@ const getPosts = (edges, postType) =>
     .filter(
       edge =>
         edge.node.frontmatter.path.match(/^\/([^\/]*).*$/, "$1")[1] ===
-          postType &&
+        postType &&
         !!edge.node.frontmatter.date &&
         edge.node.frontmatter.publish
     )
@@ -40,28 +40,35 @@ const IndexPage = ({
 }) => {
   const blogPosts = getPosts(edges, "blog")
   const projects = getPosts(edges, "project")
+  console.log('project', projects)
 
   return (
     <Layout>
       <SEO title="Home" />
-      <Section style={{ backgroundColor: `rgb(241, 241, 237)` }}>
-        <SectionHeader>Recent Blog Posts</SectionHeader>
-        {blogPosts}
-      </Section>
-      <Section>
-        <SectionHeader>Projects</SectionHeader>
-        {projects}
-      </Section>
+      {!!blogPosts.length &&
+        <Section style={{ backgroundColor: `rgb(241, 241, 237)` }}>
+          <SectionHeader>Recent Blog Posts</SectionHeader>
+          {blogPosts}
+        </Section>
+      }
+      {
+        !!projects.length && <Section>
+          <SectionHeader>Projects</SectionHeader>
+          {projects}
+        </Section>
+      }
 
-      <Section withColor={`rgb(26, 27, 29)`}>
+      <Section style={{ backgroundColor: "rgb(26, 27, 29)" }}>
         <SectionHeader style={{ color: "rgba(255,255,255,0.4)" }}>
           About
         </SectionHeader>
         <p style={{ color: "rgba(255,255,255,0.4)" }}>
           British maker of physical and digital things living in Portland,
-          Oregon. London and New York previously.
+          Oregon.
           <br />
-          On a mission to reconnect humans with nature. Working on this site rn.
+          London and New York previously.
+          <br />
+          Creating digital products. Site continually WIP.
         </p>
         <SocialIcon
           url="https://instagram.com/roowilliams"
