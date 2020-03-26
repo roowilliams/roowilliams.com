@@ -2,6 +2,7 @@ import React from "react"
 import { Link } from "gatsby"
 import Img from "gatsby-image"
 import styled from "styled-components"
+import media from "styled-media-query";
 import { Title, Date, Summary } from "./typography"
 
 const StyledLink = styled(Link)`
@@ -24,10 +25,13 @@ const ImageContainer = styled.div`
 margin-left: 1rem;
 padding: 1rem;
 width: 200px;
-`
+    ${media.lessThan("medium")`
+        display: none;
+    `}
+    `
 
 const StyledImg = styled(Img)`
-`
+    `
 
 const PostLink = ({ post }) => {
   let featuredImgFluid = post.frontmatter.featuredImage ? post.frontmatter.featuredImage.childImageSharp.fluid : false
