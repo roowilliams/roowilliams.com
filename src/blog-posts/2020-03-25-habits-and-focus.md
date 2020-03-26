@@ -2,7 +2,7 @@
 path: "/blog/habits-and-focus"
 date: "2020-03-25"
 title: "Habits + Focus"
-
+featuredImage: "../images/you'll-be-fine-without-us-text.jpg"
 publish: true
 ---
 
@@ -49,7 +49,11 @@ I have always loved creating things and experimenting aesthetically so maybe I t
 
 I thought pursuing art full-time would allow me to work with my creative whims in a way that was productive. It was a liberating thought and I got super excited. I spoke to friends, met other local artists and on my wife's advice worked to creating a strategy for making it real.
 
-On the practical side I made some small 'pieces', and hoped that by creating every day the work would begin to speak to me and tell me how to progress. After this period of immersion into that world I began to realize that going that route meant abandoning a lot of what I had been good at and starting again.
+On the practical side I made some small 'pieces', in various mediums and hoped that by creating every day the work would begin to speak to me and tell me how to progress. After this period of immersion into that world I began to realize that going that route meant abandoning a lot of what I had been good at and starting again.
+
+![One of the art pieces I made](../images/weight-of-it-all.jpg "One of the art pieces I made")
+
+![Another piece](../images/you'll-be-fine-without-us-text.jpg "Another piece")
 
 Reality check: I have never worked as an artist! I felt unsure about the smaller questions of what medium to use and was so far away from finding an 'artistic voice'. How long before I would be able to convert that practice into a means of making a decent living? Sheepishly I began to back away from the idea and take stock.
 

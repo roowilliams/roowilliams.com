@@ -2,7 +2,7 @@
 path: "/blog/freed-by-constraints"
 date: "2020-01-28"
 title: "Freed by Constraints"
-featuredImage: "../images/maker-to-artist.png"
+featuredImage: "../images/mylar-paint.jpg"
 publish: true
 ---
 
@@ -17,6 +17,8 @@ I stumbled upon a piece of Mylar with paint smeared across it I produced as part
 It was then it hit me: **constraints are freeing.**
 
 By looking at that piece of painted Mylar and asking what I could do with it, I had naturally constrained my thinking to what could be done with THAT, just THAT.
+
+![Mylar and paint experiments that followed](../images/mylar-paint.jpg "Mylar and paint experiments that followed")
 
 This made me think about other times I've felt a surge of ideas like that.
 
