@@ -55,7 +55,7 @@ Reality check: I have never worked as an artist! I felt unsure about the smaller
 
 ## Reset
 
-Over the span of my working career I have developed some niche skills that are pretty desirable in our current age. I have a lot of experience in generating ideas to solve design and business problems. I invested years in learning to write code and build things digitally. By potentially starting again I was moving away from my goal of creating "a venture that can generate a steady and substantial income".
+Over the span of my working career I have developed some niche skills that are pretty desirable in our current age. I have a lot of experience in generating ideas to solve design and business problems. I enjoy that A LOT! I invested years in learning to write code and build things digitally. By starting again I was moving away from doing things I already know how to do, that give me a lot of satisfaction and I was increasing the distance between me and my goal of reaching financial freedom with "a venture that can generate a steady and substantial income".
 
 So, recently I made the decision to apply a little planning to my life also. I took the time to make a distinction between what would be my profession vs what would be hobbies.
 
