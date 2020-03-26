@@ -2,7 +2,7 @@
 path: "/blog/system-progress-struggle-model"
 date: "2020-03-26"
 title: "System Struggle Model"
-hero-image-src: "../images/struggle-system-sketch.jpg"
+featuredImage: "../images/struggle-system-sketch.jpg"
 publish: true
 ---
 

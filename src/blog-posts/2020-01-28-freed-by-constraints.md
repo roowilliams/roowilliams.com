@@ -2,7 +2,7 @@
 path: "/blog/freed-by-constraints"
 date: "2020-01-28"
 title: "Freed by Constraints"
-hero-image-src: "/images/maker-to-artist.png"
+featuredImage: "../images/maker-to-artist.png"
 publish: true
 ---
 

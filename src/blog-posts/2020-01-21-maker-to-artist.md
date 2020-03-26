@@ -2,7 +2,7 @@
 path: "/blog/maker-to-artist"
 date: "2020-01-23"
 title: "Maker to Artist"
-hero-image-src: "/images/maker-to-artist.png"
+featuredImage: "../images/maker-to-artist.png"
 publish: true
 ---
 

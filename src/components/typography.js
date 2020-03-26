@@ -8,10 +8,14 @@ export const Title = styled.h1`
 
 export const Date = styled.time`
   font-size: 0.8rem;
+  color: rgba(0, 0, 0, 0.4);
 `
 
 export const Summary = styled.div`
+  font-size: 0.8rem;
   margin-bottom: 0.2rem;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.8);
 `
 
 export const SectionHeader = styled.h2`

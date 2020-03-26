@@ -2,7 +2,7 @@
 path: "/blog/habits-and-focus"
 date: "2020-03-25"
 title: "Habits + Focus"
-hero-image-src: "/images/maker-to-artist.png"
+
 publish: true
 ---
 

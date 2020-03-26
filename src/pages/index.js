@@ -16,8 +16,8 @@ const Content = styled.div`
   margin: 0 auto;
 `
 
-const Section = ({ children, withColor, style }) => (
-  <Container withColor={withColor} style={style}>
+const Section = ({ children, style }) => (
+  <Container style={style}>
     <Content>{children}</Content>
   </Container>
 )
@@ -46,7 +46,7 @@ const IndexPage = ({
     <Layout>
       <SEO title="Home" />
       {!!blogPosts.length &&
-        <Section style={{ backgroundColor: `rgb(241, 241, 237)` }}>
+        <Section>
           <SectionHeader>Recent Blog Posts</SectionHeader>
           {blogPosts}
         </Section>
@@ -103,6 +103,13 @@ export const pageQuery = graphql`
             path
             title
             publish
+            featuredImage {
+              childImageSharp {
+                fluid(maxWidth: 800) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
           }
         }
       }
