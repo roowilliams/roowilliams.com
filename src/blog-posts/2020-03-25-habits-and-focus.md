@@ -16,7 +16,7 @@ I could be having the most intense argument with my wife and while doing my best
 
 WTF!
 
-Like many others, I have always struggled to focus and remain focused on one thing. I have read ["Getting Things Done"](https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0142000280), tried ["The Pomodoro Technique"](https://www.amazon.com/Pomodoro-Technique-Acclaimed-Time-Management-Transformed/dp/1524760706) and even made my thesis project at university all about staying focused while working from home.[^1]
+Like many others, I have always struggled to focus and remain focused on one thing. I have read <a href="https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0142000280" target="_blank">"Getting Things Done"</a>, tried <a href="https://www.amazon.com/Pomodoro-Technique-Acclaimed-Time-Management-Transformed/dp/1524760706" target="_blank">"The Pomodoro Technique"</a> and even made my thesis project at university all about staying focused while working from home.[^1]
 
 I just cannot stick at anything.
 
@@ -44,7 +44,7 @@ I have had many productive periods like this in my life but I have fallen "off t
 ## Misguided Focus
 
 2019 was a wild ride of extreme highs and extreme lows, and after suddenly leaving my role at Twitter due to visa complications and eventually settling here in Portland I found myself a little lost and desperately searching for a way to create something of value.
-I had been helping my mother-in-law set up ecommerce for her gallery business ([Gallery at Home](https://www.galleryathome.co.uk/)) which immediately paid off when we received 2 orders within the first week! Being close to what seemed like an immediate success got me thinking...
+I had been helping my mother-in-law set up ecommerce for her gallery business (<a href="https://www.galleryathome.co.uk/" target="_blank">Gallery at Home</a>) which immediately paid off when we received 2 orders within the first week! Being close to what seemed like an immediate success got me thinking...
 I have always loved creating things and experimenting aesthetically so maybe I too could create and sell artwork?
 
 I thought pursuing art full-time would allow me to work with my creative whims in a way that was productive. It was a liberating thought and I got super excited. I spoke to friends, met other local artists and on my wife's advice worked to creating a strategy for making it real.
@@ -65,7 +65,7 @@ I still enjoy aesthetic exploration and will continue to 'play' artistically. Wh
 
 ## Maintaining Habits
 
-I have recently begun (and will finish) reading [Atomic Habits[(https://jamesclear.com/atomic-habits)] by James Clear. The main points being that you should aim to create and maintain small, incremental habits that will compound up into making you who you want to be.
+I have recently begun (and will finish) reading <a href="https://jamesclear.com/atomic-habits" target="_blank">Atomic Habits</a> by James Clear. The main points being that you should aim to create and maintain small, incremental habits that will compound up into making you who you want to be.
 I am using Things app to help me stick to a morning routine and 3 things I set out to achieve before 6pm.
 I have mapped the week against work and hobbies and I am making a conscious effort to plan before diving into the parts of a project I like most.
 
