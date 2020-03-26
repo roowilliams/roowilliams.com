@@ -40,7 +40,6 @@ const IndexPage = ({
 }) => {
   const blogPosts = getPosts(edges, "blog")
   const projects = getPosts(edges, "project")
-  console.log('project', projects)
 
   return (
     <Layout>
