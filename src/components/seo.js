@@ -25,6 +25,7 @@ function SEO({ description, lang, meta, title }) {
     `
   )
 
+
   const metaDescription = description || site.siteMetadata.description
 
   return (
@@ -34,6 +35,7 @@ function SEO({ description, lang, meta, title }) {
       }}
       title={title}
       titleTemplate={`%s | ${site.siteMetadata.title}`}
+      defaultTitle={site.siteMetadata.title}
       meta={[
         {
           name: `description`,
@@ -68,7 +70,9 @@ function SEO({ description, lang, meta, title }) {
           content: metaDescription,
         },
       ].concat(meta)}
-    />
+    >
+      <title>{title}</title>
+    </Helmet>
   )
 }
 
@@ -81,8 +85,7 @@ SEO.defaultProps = {
 SEO.propTypes = {
   description: PropTypes.string,
   lang: PropTypes.string,
-  meta: PropTypes.arrayOf(PropTypes.object),
-  title: PropTypes.string.isRequired,
+  meta: PropTypes.arrayOf(PropTypes.object)
 }
 
 export default SEO

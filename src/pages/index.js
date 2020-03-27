@@ -43,7 +43,7 @@ const IndexPage = ({
 
   return (
     <Layout>
-      <SEO title="Home" />
+      <SEO />
       {!!blogPosts.length &&
         <Section>
           <SectionHeader>Recent Blog Posts</SectionHeader>
