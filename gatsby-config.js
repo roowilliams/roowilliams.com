@@ -4,6 +4,7 @@ module.exports = {
     url: "https://roowilliams.com",
     description: `Portfolio and blog of Roo Williams - designer and maker of digital and physical things.`,
     author: `@roowilliams`,
+    image: "/images/roowilliams.png",
     twitterUsername: "@roowilliams",
     instagramUsername: "@roowilliams",
     menuLinks: [
