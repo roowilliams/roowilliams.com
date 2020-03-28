@@ -2,6 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Roo Williams`,
     url: "https://roowilliams.com",
+    siteUrl: "https://roowilliams.com",
     description: `Portfolio and blog of Roo Williams - designer and maker of digital and physical things.`,
     author: `@roowilliams`,
     image: "/images/roowilliams.png",
@@ -80,7 +81,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/favicon.png`, // This path is relative to the root of the site.
       },
     },
     {
@@ -92,6 +93,7 @@ module.exports = {
         head: false,
       },
     },
+    `gatsby-plugin-feed`
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
