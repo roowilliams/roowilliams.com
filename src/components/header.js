@@ -16,8 +16,6 @@ const Name = styled.h1`
   margin: 0 2rem;
 `
 
-const Nav = () => {}
-
 const Header = ({ siteTitle }) => (
   <Container>
     <Name>

@@ -1,31 +1,18 @@
 import React from "react"
 import { graphql } from "gatsby"
-import styled from "styled-components"
+
 import SEO from "../components/seo"
 
 import Layout from "../components/layout"
 import PostLink from "../components/postlink"
-import { SectionHeader } from "../components/typography"
-import { SocialIcon } from "react-social-icons"
-
-const Container = styled.section`
-  padding: 3rem 2rem 2rem;
-`
-const Content = styled.div`
-  max-width: 1032px;
-  margin: 0 auto;
-`
-
-const Section = ({ children, style }) => (
-  <Container style={style}>
-    <Content>{children}</Content>
-  </Container>
-)
+import { Section } from "../components/common"
+import { SectionHeader, SectionLink } from "../components/typography"
 
 const getPosts = (edges, postType) =>
   edges
     .filter(
       edge =>
+        // eslint-disable-next-line
         edge.node.frontmatter.path.match(/^\/([^\/]*).*$/, "$1")[1] ===
         postType &&
         !!edge.node.frontmatter.date &&
@@ -38,7 +25,7 @@ const IndexPage = ({
     allMarkdownRemark: { edges },
   },
 }) => {
-  const blogPosts = getPosts(edges, "blog")
+  const blogPosts = getPosts(edges, "blog").slice(0, 2)
   const projects = getPosts(edges, "project")
 
   return (
@@ -48,6 +35,9 @@ const IndexPage = ({
         <Section>
           <SectionHeader>Recent Blog Posts</SectionHeader>
           {blogPosts}
+          <SectionLink
+            to="/blog/"
+          >View blog</SectionLink>
         </Section>
       }
       {
@@ -56,34 +46,6 @@ const IndexPage = ({
           {projects}
         </Section>
       }
-
-      <Section style={{ backgroundColor: "rgb(26, 27, 29)" }}>
-        <SectionHeader style={{ color: "rgba(255,255,255,0.4)" }}>
-          About
-        </SectionHeader>
-        <p style={{ color: "rgba(255,255,255,0.4)" }}>
-          British maker of physical and digital things living in Portland,
-          Oregon.
-          <br />
-          London and New York previously.
-          <br />
-          Creating digital products. Site continually WIP.
-        </p>
-        <SocialIcon
-          url="https://instagram.com/roowilliams"
-          bgColor="rgba(255,255,255,0.4)"
-          style={{ height: 41, width: 41, marginRight: 10 }}
-          target="_blank"
-          rel="noopener noreferrer"
-        />
-        <SocialIcon
-          url="https://twitter.com/roowilliams"
-          bgColor="rgba(255,255,255,0.4)"
-          style={{ height: 41, width: 41, marginRight: 10 }}
-          target="_blank"
-          rel="noopener noreferrer"
-        />
-      </Section>
     </Layout>
   )
 }

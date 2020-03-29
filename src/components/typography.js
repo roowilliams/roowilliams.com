@@ -1,4 +1,7 @@
+import React from "react"
 import styled from "styled-components"
+import { Link } from "gatsby"
+import RightArrow from "../../static/right-arrow.svg"
 
 // doesn't apply to markdown pages since only html tags are generated
 export const Title = styled.h1`
@@ -24,3 +27,23 @@ export const SectionHeader = styled.h2`
   font-weight: 300;
   color: rgba(50, 50, 50, 0.7);
 `
+
+const LinkContainer = styled.div`
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+`
+
+const StyledLink = styled(Link)`
+color: rgba(0, 0, 0, 0.8);
+text-decoration: none;
+font-weight: 700;
+
+&:hover {
+  text-decoration: underline;
+}
+
+`
+
+export const SectionLink = ({ to, children }) => <LinkContainer><StyledLink to={to}>{children}<img src={RightArrow} alt="Right arrow" style={{ width: '20px', margin: 0, marginLeft: '6px', marginBottom: '-1px' }} /></StyledLink></LinkContainer>
+

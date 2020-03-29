@@ -1,39 +1,50 @@
 import React from "react"
 import { graphql } from "gatsby"
-import styled from "styled-components"
-
-import PostLink from "../components/postlink"
-
-import Layout from "../components/layout"
 import SEO from "../components/seo"
 
-const Container = styled.div``
+import Layout from "../components/layout"
+import PostLink from "../components/postlink"
+import { Section } from "../components/common"
+import { SectionHeader } from "../components/typography"
+
+const getPosts = (edges, postType) =>
+  edges
+    .filter(
+      edge =>
+        // eslint-disable-next-line
+        edge.node.frontmatter.path.match(/^\/([^\/]*).*$/, "$1")[1] ===
+        postType &&
+        !!edge.node.frontmatter.date &&
+        edge.node.frontmatter.publish
+    )
+    .map(edge => <PostLink key={edge.node.id} post={edge.node} />)
 
 const IndexPage = ({
   data: {
     allMarkdownRemark: { edges },
   },
 }) => {
-  const Posts = edges
-    .filter(
-      edge => !!edge.node.frontmatter.date && edge.node.frontmatter.publish
-    ) // You can filter your posts based on some criteria
-    .map(edge => <PostLink key={edge.node.id} post={edge.node} />)
+  const blogPosts = getPosts(edges, "blog")
+
   return (
     <Layout>
-      <SEO title="Blog" />
-      <Container>{Posts}</Container>
+      <SEO />
+      {!!blogPosts.length &&
+        <Section>
+          <SectionHeader>Blog</SectionHeader>
+          {blogPosts}
+        </Section>
+      }
+
     </Layout>
   )
 }
+
 export default IndexPage
 
 export const pageQuery = graphql`
   query {
-    allMarkdownRemark(
-      sort: { order: DESC, fields: [frontmatter___date] }
-      filter: { fileAbsolutePath: { regex: "/blog-posts/" } }
-    ) {
+    allMarkdownRemark(sort: { order: DESC, fields: [frontmatter___date] }) {
       edges {
         node {
           id
@@ -43,6 +54,13 @@ export const pageQuery = graphql`
             path
             title
             publish
+            featuredImage {
+              childImageSharp {
+                fluid(maxWidth: 800) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
           }
         }
       }
