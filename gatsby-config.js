@@ -5,7 +5,7 @@ module.exports = {
     siteUrl: "https://roowilliams.com",
     description: `Portfolio and blog of Roo Williams - designer and maker of digital and physical things.`,
     author: `@roowilliams`,
-    image: "/images/roowilliams.png",
+    image: "/roowilliams.png",
     twitterUsername: "@roowilliams",
     instagramUsername: "@roowilliams",
     menuLinks: [
