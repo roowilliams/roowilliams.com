@@ -28,7 +28,7 @@ const IndexPage = ({
 
   return (
     <Layout>
-      <SEO />
+      <SEO title='Blog' />
       {!!blogPosts.length &&
         <Section>
           <SectionHeader>Blog</SectionHeader>
