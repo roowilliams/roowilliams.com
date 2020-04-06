@@ -114,5 +114,6 @@ Reach out with any questions, comments or improvements in the comments section b
 You can view my <a href="https://www.instagram.com/stories/highlights/17887213792507206/" target="_blank">Instagram stories</a> to see how this project developed.
 
 I am offering this for free but if you'd like to help to help me pay for a haircut once this is all over tips are graciously accepted via <a href="https://paypal.me/roowilliams12" target="_blank">PayPal</a> :)
+
 ## This page is a work in progress.
 #### It is being updated daily so please bookmark it and periodically check for complete build instructions and improvements.
