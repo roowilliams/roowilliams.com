@@ -4,6 +4,7 @@ date: "2020-04-06"
 title: "EVERYMASK - DIY Covid PPE"
 featuredImage: "../images/everymask-hero.jpg"
 publish: true
+comments: true
 ---
 
 ### A mask made from as little as possible, for as many people as possible
@@ -98,7 +99,15 @@ If the rubber feels too tight try relaxing the strap or adding an extra band. Th
 
 #### 4. Filter
 
-__4.1__ 
+__4.1__ The filter is still in development, but in the examples I've shown I have used a 23 cm x 20 cm (9 in x 8 in) corner of a 100% cotton pillowcase giving me 2 layers. 
 
+I clamp it by starting with the top edge. I hold it infront of my face to find the rough center, pinch that and push it under the nose piece, then I work my way out from there. Images coming soon.
+
+## Please Share Your Builds
+
+If you do create an __EVERYMASK__ please share it on social media with hashtag __#EVERYMASK__ so we can come together with ideas on how to improve it.
+
+
+Reach out with any questions, comments or improvements in the comments section below. I am offering this for free but if you'd like to help support me personally during this time tips are graciously accepted via <a href="https://paypal.me/roowilliams12" target="_blank">PayPal</a>.
 ## This page is a work in progress.
-## It is being updated by the hour so please bookmark it and periodically check for complete build instructions.
+#### It is being updated daily so please bookmark it and periodically check for complete build instructions and improvements.
