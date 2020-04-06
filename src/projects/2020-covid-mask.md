@@ -102,6 +102,7 @@ If the rubber feels too tight try relaxing the strap or adding an extra band. Th
 __4.1__ The filter is still in development, but in the examples I've shown I have used a 23 cm x 20 cm (9 in x 8 in) corner of a 100% cotton pillowcase giving me 2 layers. 
 
 ![EVERYMASK Face Frame filter](../images/everymask-step4.1-filter.jpg "EVERYMASK Face Frame filter")
+
 I clamp it by starting with the top edge. I hold it infront of my face to find the rough center, pinch that and push it under the nose piece, then I work my way out from there. Images coming soon.
 
 ## Please Share Your Builds
