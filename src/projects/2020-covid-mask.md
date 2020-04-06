@@ -6,7 +6,7 @@ featuredImage: "../images/everymask-hero.jpg"
 publish: true
 ---
 
-### A mask made from as little as possible for as many as possible
+### A mask made from as little as possible, for as many people as possible
 
 It's 2020, a global pandemic of COVID-19 is under way. This virus can spread through airborne droplets expelled by anyone infected. 
 Governments around the world have recommended wearing facemasks in an attempt to catch airborne viruses before they reach a persons airways.
@@ -26,6 +26,7 @@ By focusing on the face frame I hope that a community of EVERYMASK users can imp
 ![EVERYMASK](../images/everymask-hero.jpg "EVERYMASK")
 
 
+## Instructions
 There are two possible versions of the face frame.
 
 ![EVERYMASK Face Frame](../images/everymask-face-frames.jpg "EVERYMASK Face Frame")
