@@ -51,7 +51,7 @@ __1.1__ Using <a href="https://drive.google.com/file/d/17aeMhx-E7hsK5P1fRn87Dsu_
 
 ![EVERYMASK Face Frame Build Hanger Wire](../images/everymask-step1.1-coat-hanger.jpg "EVERYMASK Face Frame Build Hanger Wire")
 
-__1.2__ Starting from the ends, use a short nose pliars to bend the hooks that will hold the elastic. Leave a gap so that we can slide the elastic into the hook (see step) later on.
+__1.2__ Starting from the ends, use a short nose pliars to bend the hooks that will hold the elastic. Leave a gap so that we can slide the elastic into the hook (see step 2.2) later on.
 
 ![EVERYMASK Face Frame Build Forming the Wire](../images/everymask-step1.2-forming.jpg "EVERYMASK Face Frame Build Forming the Wire")
 
@@ -62,6 +62,16 @@ __1.3__ Finish the nose piece by forming the curve that will fit over the bridge
 
 
 #### 2. Elastic
+__2.1__ Chain enough rubber bands together to make around a 22-26 cm (9-9.8 inches) length. This part controls the fit to the face, you want that to be tight enough that it creates a good seal, but loose enough to be comfortable. You may need to jump back to this step after testing the fit. 
+
+If you're not sure how to chain rubber bands see <a href="http://littletinkerer.blogspot.com/2014/10/make-your-own-rubber-band-car.html" target="_blank">step 4 here</a>.
+
+![EVERYMASK Face Frame Build looping rubber bands](../images/everymask-step2.1-loop-elastic.jpg "EVERYMASK Face Frame looping rubber bands")
+
+__2.2__ Slip both ends of the rubber band chain into the nose piece hooks and squeeze the hooks shut using the pliars.
+
+![EVERYMASK Face Frame Build hooking elastic](../images/everymask-step2.2-hook-elastic.jpg "EVERYMASK Face Frame Build hooking elastic")
+
 
 #### 3. Headstrap
 
