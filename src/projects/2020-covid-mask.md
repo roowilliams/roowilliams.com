@@ -72,8 +72,17 @@ __2.2__ Slip both ends of the rubber band chain into the nose piece hooks and sq
 
 ![EVERYMASK Face Frame Build hooking elastic](../images/everymask-step2.2-hook-elastic.jpg "EVERYMASK Face Frame Build hooking elastic")
 
+__2.3__ That's step 2 finished! You can try it on and it might hook on the bridge of your nose - don't worry if it doesn't fit great at this point, it probably won't. Next we're going to add the headstrap which will pull the band towards your cheekbones and create a 'seal' strong enough to tightly hold out filter fabric.
+
+![EVERYMASK Face Frame Build fit](../images/everymask-step2.3-fit.jpg "EVERYMASK Face Frame Build fit")
 
 #### 3. Headstrap
+
+__3.1__ Cut about 80 cm (~32 inches) of string/cord and tie a <a href="https://www.animatedknots.com/midshipmans-hitch-knot" target="_blank">Midshipman's Hitch Knot</a> in one end. This knot allows us to create a sliding, adjustable loop that holds when under tension. It is easy to learn and is so useful.
+
+__3.2__
+
+![EVERYMASK Face Frame Build fit](../images/everymask-step3.1-headstrap-knot.jpg "EVERYMASK Face Frame Build fit")
 
 #### 4. Filter
 
