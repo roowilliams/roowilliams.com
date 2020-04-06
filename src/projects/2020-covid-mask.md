@@ -78,14 +78,27 @@ __2.3__ That's step 2 finished! You can try it on and it might hook on the bridg
 
 #### 3. Headstrap
 
-__3.1__ Cut about 80 cm (~32 inches) of string/cord and tie a <a href="https://www.animatedknots.com/midshipmans-hitch-knot" target="_blank">Midshipman's Hitch Knot</a> in one end. This knot allows us to create a sliding, adjustable loop that holds when under tension. It is easy to learn and is so useful.
+__3.1__ Cut about 80 cm (~32 inches) of string/cord and tie a <a href="https://www.animatedknots.com/midshipmans-hitch-knot" target="_blank">Midshipman's Hitch Knot</a> in one end. This knot allows us to create a sliding, adjustable loop that holds when under tension - useful and easy to learn!
 
-__3.2__
+![EVERYMASK Face Frame headstrap knot](../images/everymask-step3.1-headstrap-knot.jpg "EVERYMASK Face Frame headstrap knot")
 
-![EVERYMASK Face Frame Build fit](../images/everymask-step3.1-headstrap-knot.jpg "EVERYMASK Face Frame Build fit")
+__3.2__ In the same way you chained the rubber bands together, fasten the loop to the rubber bands around 2.5 cm (1 inch) from the nose piece hook.
+
+![EVERYMASK Face Frame headstrap attach](../images/everymask-step3.2-attach.jpg "EVERYMASK Face Frame headstrap attach")
+
+__3.3__ Tie two regular overhand knots one after the other to connect the other end to the rubber band to complete the Face Frame. Will replace this method with a better knot ASAP!
+
+![EVERYMASK Face Frame headstrap attach](../images/everymask-step3.3-attach2.jpg "EVERYMASK Face Frame headstrap attach")
+
+__3.4__ Your Face Frame is complete! Put the nose piece on, pull the rubber band down under your chin and lift the headstrap over your head to secure on the back. With the headstrap running over the top of your ears hold the knot and slide it along the cord that runs through it to tighten.
+
+If the rubber feels too tight try relaxing the strap or adding an extra band. The Face Frame clamps the filter material to the face so the aim is to get the band and nose piece fitting as closely to you facial contours as you can without being too tight and uncomfortable.
+
+![EVERYMASK Face Frame headstrap fit](../images/everymask-step3.4-fit.jpg "EVERYMASK Face Frame headstrap fit")
 
 #### 4. Filter
 
+__4.1__ 
 
 ## This page is a work in progress.
 ## It is being updated by the hour so please bookmark it and periodically check for complete build instructions.
