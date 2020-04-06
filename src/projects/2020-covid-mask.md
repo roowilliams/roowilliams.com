@@ -39,8 +39,33 @@ There are two possible versions of the face frame.
 
 To complete both versions you will also need:
 - A few rubber bands
-- Some string - ideally thin, nylon cord like kite string or sash cord.
+- 80 cm (~32 inches) of string - ideally thin, nylon cord like kite string or sash cord.
 
+### Build
+
+#### 1. Nose Piece (Wire)
+
+![EVERYMASK Nose Piece](../images/everymask-nosepieces.jpg "EVERYMASK Nose Pieces")
+
+__1.1__ Using <a href="https://drive.google.com/file/d/17aeMhx-E7hsK5P1fRn87Dsu_-CW0uVBk/view?usp=sharing" target="_blank">the template</a> as a guide, snip an 80 cm (~4 inch) piece of stiff wire from the hanger.
+
+![EVERYMASK Face Frame Build Hanger Wire](../images/everymask-step1.1-coat-hanger.jpg "EVERYMASK Face Frame Build Hanger Wire")
+
+__1.2__ Starting from the ends, use a short nose pliars to bend the hooks that will hold the elastic. Leave a gap so that we can slide the elastic into the hook (see step) later on.
+
+![EVERYMASK Face Frame Build Forming the Wire](../images/everymask-step1.2-forming.jpg "EVERYMASK Face Frame Build Forming the Wire")
+
+__1.3__ Finish the nose piece by forming the curve that will fit over the bridge of your nose. This is the trickiest part of the process, don't worry if it's not perfect.
+
+![EVERYMASK Face Frame Build Forming the Wire](../images/everymask-step1.3-forming.jpg "EVERYMASK Face Frame Build Forming the Wire")
+
+
+
+#### 2. Elastic
+
+#### 3. Headstrap
+
+#### 4. Filter
 
 
 ## This page is a work in progress.
