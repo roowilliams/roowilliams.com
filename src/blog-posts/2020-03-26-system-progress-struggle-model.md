@@ -6,7 +6,7 @@ featuredImage: "../images/struggle-system-sketch.jpg"
 publish: true
 ---
 
-I'm looking for an idea. No wait, I'm looking for a problem. A problem that people have that gets in their way of making progress. One that bothers them so much, they'd be willing to pay for a solution to it - that's a business idea.
+I'm looking for an idea. No wait, I'm looking for a problem. A problem that people have that gets in their way of making progress. One that bothers them so much, they'd be willing to pay for a solution to it - that's a business idea.<!-- end -->
 
 One of the best resources I've ever encountered on finding and validating new product ideas is <a href="https://podcast.megamaker.co/episodes/037-find-and-validate-good-product-ideas" target="_blank">this MegaMaker podcast</a> by <a href="https://justinjackson.ca/" target="_blank">Justin Jackson</a>.
 

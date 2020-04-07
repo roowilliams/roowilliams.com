@@ -1,19 +1,19 @@
 ---
 path: "/project/everymask"
 date: "2020-04-06"
-title: "EVERYMASK - DIY Covid PPE"
+title: "EVERYMASK: COVID-19 PPE"
 featuredImage: "../images/everymask-hero.jpg"
 publish: true
 comments: true
 ---
 
-### Designed with as little as possible, for as many people as possible
+### _Designed with as little as possible, for as many people as possible._ <!-- end -->
 
-<div style="width: 100%; display: flex; flex-direction: column; align-items: center;"><div style="width:50%;height:0;padding-bottom:50%;position:relative;"><iframe src="https://giphy.com/embed/kBqiLu8DGZGecCBuME" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div></div>
+<div style="width: 100%; display: flex; flex-direction: column; align-items: center;"><div style="width:50%;height:0;padding-bottom:50%;position:relative;"><iframe src="https://giphy.com/embed/kBqiLu8DGZGecCBuME" width="100%" height="100%" style="position:absolute;" frameBorder="0" class="giphy-embed"></iframe></div></div>
 
 ## The Context
 
-It's 2020, a global pandemic of COVID-19 is under way. This virus can spread through airborne droplets expelled by anyone infected. 
+It's 2020, a global pandemic of COVID-19 is under way. This virus can spread through airborne droplets expelled by anyone infected.
 Governments around the world have recommended wearing facemasks in an attempt to catch airborne viruses before they reach a persons airways.
 
 ## The Problem
