@@ -125,4 +125,4 @@ You can view my <a href="https://www.instagram.com/stories/highlights/1788721379
 I am offering this for free but if you'd like to help to help me pay for a haircut once this is all over tips are graciously accepted via <a href="https://paypal.me/roowilliams12" target="_blank">PayPal</a> :)
 
 ## This page is a work in progress.
-#### It is being updated daily so please bookmark it and periodically check for complete build instructions and improvements.
+#### It is being updated daily so please bookmark it and periodically check for complete build instructions and improvements. Please share using the social buttons in the comments below.
