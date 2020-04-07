@@ -32,7 +32,7 @@ This mask can be worn in public and at the end of the day, the filter material d
 Some filter materials are better than others, and articles such as <a href="https://www.nytimes.com/article/coronavirus-homemade-mask-material-DIY-face-mask-ppe.html" target="_blank">this one by the New York Times</a> address that in more detail. 
 Personally I've read that two layers of 100% cotton such as from a t-shirt or pillowcase is a good place to start.
 
-By focusing on the harness I hope that a community of __EVERYMASK__ users can improvise on the filter's material and pattern and prevent more infections.
+By focusing on the harness I hope that a community of __EVERYMASK__ users can improvise on the filter's material and pattern and prevent more infections. Resources are limited at the moment, so this mask has been designed with <a href="https://www.nasa.gov/isru" target="_blank">NASA's ISRU principles</a> in mind.
 
 ![EVERYMASK](../images/everymask-hero.jpg "EVERYMASK")
 
