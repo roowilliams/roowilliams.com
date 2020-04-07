@@ -57,7 +57,7 @@ To complete both versions you will also need:
 
 ![EVERYMASK Nose Piece](../images/everymask-nosepieces.jpg "EVERYMASK Nose Pieces")
 
-__1.1__ Using <a href="https://drive.google.com/file/d/17aeMhx-E7hsK5P1fRn87Dsu_-CW0uVBk/view?usp=sharing" target="_blank">the template</a> as a guide, snip an 80 cm (~4 inch) piece of stiff wire from the hanger.
+__1.1__ Using <a href="https://drive.google.com/file/d/17aeMhx-E7hsK5P1fRn87Dsu_-CW0uVBk/view?usp=sharing" target="_blank">the template</a> as a guide, snip an 80 cm (~4 inch) piece of stiff wire from the hanger. Note: the template was designed around my own nose which is quite narrow and pointy, so be prepared to tweak it to fit yours.
 
 ![EVERYMASK Harness Build Hanger Wire](../images/everymask-step1.1-coat-hanger.jpg "EVERYMASK Harness Build Hanger Wire")
 
