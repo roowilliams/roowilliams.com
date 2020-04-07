@@ -40,7 +40,7 @@ const Cover = ({ className, image, children }) => {
 
 const StyledCover = styled(Cover)`
   width: 100%;
-  height: 600px;
+  height: 800px;
   background-position: bottom center;
   background-repeat: repeat-y;
   background-size: cover;
