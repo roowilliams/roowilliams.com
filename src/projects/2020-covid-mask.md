@@ -7,26 +7,24 @@ publish: true
 comments: true
 ---
 
-### A mask made from as little as possible, for as many people as possible
+### Designed with as little as possible, with as many people as possible, in mind
+
+![EVERYMASK](../images/everymask-hero.jpg "EVERYMASK")
 
 It's 2020, a global pandemic of COVID-19 is under way. This virus can spread through airborne droplets expelled by anyone infected. 
 Governments around the world have recommended wearing facemasks in an attempt to catch airborne viruses before they reach a persons airways.
 
-The problem is if handled incorrectly, facemasks can actually increase your chances of infection. As you wear one, particles are drawn by your breath towards your mouth getting caught by the mask. Then you handle the mask, say by popping it down to eat and then put it back on and all those particles are then on your fingers or smeared on your face.
+The problem is, if handled incorrectly, facemasks can actually increase your chances of infection. As you wear one, particles are drawn by your breath towards your mouth getting caught by the mask. Then you handle the mask, say by popping it down to eat and then put it back on and all those particles are then on your fingers or smeared on your face.
 The recommendation is to treat it like a worn piece of underwear once you’re home, remove and wash right away and if you only have one then it’s out of play until washed.
 
 We also have a global mask shortage.
 
-Enter __EVERYMASK__ - a DIY mask consisting of a 'face frame' that can tightly fit a rectangle of filter material to a person's face. This mask can be worn in public and at the end of the day, the filter material disposed of or washed and replaced with another.
+Enter __EVERYMASK__ - a DIY mask consisting of a 'Face Frame' that can tightly fit a rectangle of filter material to a person's face. This mask can be worn in public and at the end of the day, the filter material disposed of or washed and replaced with another.
 
 Some filter materials are better than others, and articles such as <a href="https://www.nytimes.com/article/coronavirus-homemade-mask-material-DIY-face-mask-ppe.html" target="_blank">this one by the New York Times</a> address that in more detail. 
 Personally I've read that two layers of 100% cotton such as from a t-shirt or pillowcase is a good place to start.
 
 By focusing on the face frame I hope that a community of __EVERYMASK__ users can improvise on the filter's material and pattern and prevent more infections.
-
-
-![EVERYMASK](../images/everymask-hero.jpg "EVERYMASK")
-
 
 ## Instructions
 
