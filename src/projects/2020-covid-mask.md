@@ -3,6 +3,7 @@ path: "/project/everymask"
 date: "2020-04-06"
 title: "EVERYMASK: ISRU COVID-19 PPE"
 featuredImage: "../images/everymask-hero.jpg"
+coverImage: "../images/everymask-prototypes.jpg"
 publish: true
 comments: true
 ---
