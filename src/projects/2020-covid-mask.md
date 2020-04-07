@@ -42,7 +42,7 @@ There are two possible versions of the face frame.
 ![EVERYMASK Face Frame](../images/everymask-face-frames.jpg "EVERYMASK Face Frame")
 
 - 1 uses a 3D printed nose piece, file available on <a href="https://www.thingiverse.com/thing:4266151" target="_blank">Thingiverse</a>. If you have access to a 3D printer go ahead and print this.
-- 2 uses a nose piece formed from a piece of stiff wire. Grab yourself a wire clothes hanger, a short nosed pliars and the printable template <a href="https://drive.google.com/file/d/17aeMhx-E7hsK5P1fRn87Dsu_-CW0uVBk/view?usp=sharing" target="_blank">available here</a>.
+- 2 uses a nose piece formed from a piece of stiff wire. Grab yourself a wire clothes hanger, a short nosed pliers and the printable template <a href="https://drive.google.com/file/d/17aeMhx-E7hsK5P1fRn87Dsu_-CW0uVBk/view?usp=sharing" target="_blank">available here</a>.
 
 To complete both versions you will also need:
 - A few rubber bands
@@ -58,7 +58,7 @@ __1.1__ Using <a href="https://drive.google.com/file/d/17aeMhx-E7hsK5P1fRn87Dsu_
 
 ![EVERYMASK Face Frame Build Hanger Wire](../images/everymask-step1.1-coat-hanger.jpg "EVERYMASK Face Frame Build Hanger Wire")
 
-__1.2__ Starting from the ends, use a short nose pliars to bend the hooks that will hold the elastic. Leave a gap so that we can slide the elastic into the hook (see step 2.2) later on.
+__1.2__ Starting from the ends, use a short nose pliers to bend the hooks that will hold the elastic. Leave a gap so that we can slide the elastic into the hook (see step 2.2) later on.
 
 ![EVERYMASK Face Frame Build Forming the Wire](../images/everymask-step1.2-forming.jpg "EVERYMASK Face Frame Build Forming the Wire")
 
@@ -75,7 +75,7 @@ If you're not sure how to chain rubber bands see <a href="http://littletinkerer.
 
 ![EVERYMASK Face Frame Build looping rubber bands](../images/everymask-step2.1-loop-elastic.jpg "EVERYMASK Face Frame looping rubber bands")
 
-__2.2__ Slip both ends of the rubber band chain into the nose piece hooks and squeeze the hooks shut using the pliars.
+__2.2__ Slip both ends of the rubber band chain into the nose piece hooks and squeeze the hooks shut using the pliers.
 
 ![EVERYMASK Face Frame Build hooking elastic](../images/everymask-step2.2-hook-elastic.jpg "EVERYMASK Face Frame Build hooking elastic")
 
