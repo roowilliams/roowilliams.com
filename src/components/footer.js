@@ -11,21 +11,30 @@ const Container = styled.footer`
   color: rgba(255, 255, 255, 0.4);
   font-size: 0.8rem;
 `
+const DarkLink = styled.a`
+ color: rgba(255, 255, 255, 0.6);
+ text-decoration: underline;
 
+ &:hover {
+  color: rgba(255, 255, 255, 0.9);
+ }
+
+`
 export default () => (
   <>
     <Section style={{ backgroundColor: "rgb(26, 27, 29)" }}>
-      <SectionHeader style={{ color: "rgba(255,255,255,0.4)" }}>
+      <SectionHeader style={{ color: "rgba(255,255,255,0.6)" }}>
         About
         </SectionHeader>
       <p style={{ color: "rgba(255,255,255,0.4)" }}>
-        British maker of physical and digital things living in Portland,
+        British designer+maker of physical+digital things living in Portland,
         Oregon.
           <br />
           London and New York previously.
+
           <br />
-          Creating digital products. Site continually WIP.
-        </p>
+        <DarkLink href="mailto:roo@roowilliams.com">roo@roowilliams.com</DarkLink>
+      </p>
       <SocialIcon
         url="https://instagram.com/roowilliams"
         bgColor="rgba(255,255,255,0.4)"
