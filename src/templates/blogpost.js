@@ -21,10 +21,10 @@ export default function Template({
   data, // this prop will be injected by the GraphQL query below.
 }) {
   const { markdownRemark } = data // data.markdownRemark holds your post data
-  const { frontmatter, html } = markdownRemark
+  const { frontmatter, html, excerpt } = markdownRemark
   return (
     <Layout>
-      <SEO title={frontmatter.title} image={frontmatter.featuredImage ? frontmatter.featuredImage.childImageSharp.fluid.src : false} />
+      <SEO title={frontmatter.title} description={excerpt} image={frontmatter.featuredImage ? frontmatter.featuredImage.childImageSharp.fluid.src : false} />
       <Container>
         <Post>
           <Title>{frontmatter.title}</Title>
