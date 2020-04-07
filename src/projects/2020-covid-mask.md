@@ -7,7 +7,7 @@ publish: true
 comments: true
 ---
 
-### Designed with as little as possible, with as many people as possible, in mind
+### Designed with as little as possible, for as many people as possible
 
 <div style="width: 100%; display: flex; flex-direction: column; align-items: center;"><div style="width:50%;height:0;padding-bottom:50%;position:relative;"><iframe src="https://giphy.com/embed/kBqiLu8DGZGecCBuME" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div></div>
 
