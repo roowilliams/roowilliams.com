@@ -140,5 +140,18 @@ You can view my <a href="https://www.instagram.com/stories/highlights/1788721379
 
 I am offering this for free but if you'd like to help me pay for material costs for continued development, maybe even a haircut once this is all over, tips are graciously accepted via <a href="https://paypal.me/roowilliams12" target="_blank">PayPal</a>. 
 
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
+#### Disclaimer
+
+<small>I'm making this design available in order to contribute to the public good and don’t want to be sued because of it. By accessing and/or using this document and the content it contains, you agree to the following terms:
+
+Roo Williams disclaims all express and implied warranties related to this mask pattern, including but not limited to its effectiveness or safety, to the fullest extent permitted by law, including but not limited to any implied warranties of merchantability or fitness for a particular purpose. Your use of this design is voluntary. If you use it, you do so at your own risk. Further, you fully and forever release and discharge Roo Williams from any and all injuries (including death), losses, damages, claims (including negligence claims), demands, lawsuits, expenses, and any other liability of any kind, of or to you, your property, or any other person, directly or indirectly arising out of or in connection with your use of this pattern, even if it is due to the negligence, injudicious act, omission, or other fault of Roo Williams.</small>
+
+
 ## This page is a work in progress.
-#### It is being updated daily so please bookmark it and periodically check for complete build instructions and improvements. Please share using the social buttons in the comments below.
