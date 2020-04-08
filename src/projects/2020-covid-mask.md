@@ -26,9 +26,12 @@ If handled incorrectly, facemasks can actually increase a wearer's chances of in
 A recommendation is to treat a mask like a worn piece of underwear once removed. Wash it right away or if it's disposable, discard. This creates a problem where if only one mask is owned then it’s unavailable until washed.
 
 ### Discomfort
-If we are in this for the longhaul then prolonged wearing of masks may become a daily reality. Medical professionals and regular people alike don't even need to complain that the current masks on the market and DIY creations exert a <a href="https://news.sky.com/story/coronavirus-bruised-by-face-masks-nurses-show-the-impact-of-fighting-the-pandemic-11955457" target="_blank">lot of pressure</a> on the ears, bridge of nose and face - the pictures speak for themselves.
+If we are in this for the longhaul then prolonged wearing of masks may become a daily reality. Medical professionals and regular people alike don't even need to complain that the current masks on the market and DIY creations exert a <a href="https://news.sky.com/story/coronavirus-bruised-by-face-masks-nurses-show-the-impact-of-fighting-the-pandemic-11955457" target="_blank">lot of pressure</a> on the ears, bridge of nose and face - the pictures speak for themselves. For the public, without the intensity immediate threat seen in hospitals, an uncomfortable mask will soon become an unworn mask.
 
 ![Italian Nurse with Mask Marks - From Instagram](../images/nurse-italy-mask-marks.jpg "Italian Nurse with Mask Marks - From Instagram")
+
+
+![Uncomfortable DIY Mask](../images/diy-mask-uncomfortable.jpg "Uncomfortable DIY Mask")
 
 ### Performance
 A common issue with masks is that they can leak with areas such as the bridge of the nose to the cheek and under the chin often cited as places of entry of particles during tests.
@@ -135,7 +138,7 @@ Reach out with any questions, comments or improvements in the comments section b
 
 You can view my <a href="https://www.instagram.com/stories/highlights/17887213792507206/" target="_blank">Instagram stories</a> to see how this project developed.
 
-I am offering this for free but if you'd like to help me pay for a haircut once this is all over tips are graciously accepted via <a href="https://paypal.me/roowilliams12" target="_blank">PayPal</a>. 
+I am offering this for free but if you'd like to help me pay for material costs for continued development, maybe even a haircut once this is all over, tips are graciously accepted via <a href="https://paypal.me/roowilliams12" target="_blank">PayPal</a>. 
 
 ## This page is a work in progress.
 #### It is being updated daily so please bookmark it and periodically check for complete build instructions and improvements. Please share using the social buttons in the comments below.
