@@ -39,7 +39,7 @@ And then we have a <a href="https://www.usnews.com/news/best-countries/articles/
 ## The Solution
 
 __EVERYMASK__ is a DIY mask that uses a custom harness to tightly fit a sheet of filter material to a person's face.
-It uses an adjustable headstrap to avoid ear fatigue and a custom-formed nose piece spreads tension across more of the nose and cheeks vs creating sores on the bridge.
+It uses an adjustable headstrap to avoid ear fatigue and a custom-formed nose piece spreads tension across more of the nose and cheeks vs creating sores on the bridge. By using an elastic loop around the face and pulling it in using the head strap a better seal is created.
 
 After use the filter material can be easily disposed of or washed without the wearer having to touch the potentially contaminated filter material.
 
@@ -67,7 +67,7 @@ To complete both versions you will also need:
 
 ![EVERYMASK Nose Piece](../images/everymask-nosepieces.jpg "EVERYMASK Nose Pieces")
 
-__1.1__ Using <a href="https://drive.google.com/file/d/17aeMhx-E7hsK5P1fRn87Dsu_-CW0uVBk/view?usp=sharing" target="_blank">the template</a> as a guide, snip an 80 cm (~4 inch) piece of stiff wire from the hanger. Note: the template was designed around my own nose which is quite narrow and pointy, so be prepared to tweak it to fit yours.
+__1.1__ Using <a href="https://drive.google.com/file/d/17aeMhx-E7hsK5P1fRn87Dsu_-CW0uVBk/view?usp=sharing" target="_blank">the template</a> as a starting guide, snip an 80 cm (~4 inch) piece of stiff wire from the hanger. Note: the template was designed around my own nose which is quite narrow and pointy, so be prepared to tweak it to fit yours.
 
 ![EVERYMASK Harness Build Hanger Wire](../images/everymask-step1.1-coat-hanger.jpg "EVERYMASK Harness Build Hanger Wire")
 
@@ -135,7 +135,7 @@ Reach out with any questions, comments or improvements in the comments section b
 
 You can view my <a href="https://www.instagram.com/stories/highlights/17887213792507206/" target="_blank">Instagram stories</a> to see how this project developed.
 
-I am offering this for free but if you'd like to help me pay for a haircut once this is all over tips are graciously accepted via <a href="https://paypal.me/roowilliams12" target="_blank">PayPal</a> :)
+I am offering this for free but if you'd like to help me pay for a haircut once this is all over tips are graciously accepted via <a href="https://paypal.me/roowilliams12" target="_blank">PayPal</a>. 
 
 ## This page is a work in progress.
 #### It is being updated daily so please bookmark it and periodically check for complete build instructions and improvements. Please share using the social buttons in the comments below.
