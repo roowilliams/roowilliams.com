@@ -59,7 +59,7 @@ There are two possible versions of the harness.
 ![EVERYMASK Harness](../images/everymask-face-frames.jpg "EVERYMASK Harness")
 
 - 1 uses a 3D printed nose piece, file available on <a href="https://www.thingiverse.com/thing:4266151" target="_blank">Thingiverse</a>. If you have access to a 3D printer go ahead and print this.
-- 2 uses a nose piece formed from a piece of stiff wire. Grab yourself a wire clothes hanger, a short nosed pliers and the printable template <a href="https://drive.google.com/file/d/17aeMhx-E7hsK5P1fRn87Dsu_-CW0uVBk/view?usp=sharing" target="_blank">available here</a>.
+- 2 uses a nose piece formed from a piece of stiff wire. Grab yourself a wire clothes hanger, a short nosed pliers and the printable template <a href="https://drive.google.com/file/d/1A2XI8fvE4TTh6kAMSWZiRk6TE4P8aZZH/view?usp=sharing" target="_blank">available here</a>.
 
 To complete both versions you will also need:
 - A few rubber bands
@@ -71,7 +71,7 @@ To complete both versions you will also need:
 
 ![EVERYMASK Nose Piece](../images/everymask-nosepieces.jpg "EVERYMASK Nose Pieces")
 
-__1.1__ Using <a href="https://drive.google.com/file/d/17aeMhx-E7hsK5P1fRn87Dsu_-CW0uVBk/view?usp=sharing" target="_blank">the template</a> as a starting guide, snip an 80 cm (~4 inch) piece of stiff wire from the hanger. Note: the template was designed around my own nose which is quite narrow and pointy, so be prepared to tweak it to fit yours.
+__1.1__ Using <a href="https://drive.google.com/file/d/1A2XI8fvE4TTh6kAMSWZiRk6TE4P8aZZH/view?usp=sharing" target="_blank">the template</a> as a starting guide, snip the appropriate sized piece of stiff wire from the hanger. Note: due to the challenges of isolation the template was designed around my wife's and my own nose so be prepared to tweak the result to fit yours.
 
 ![EVERYMASK Harness Build Hanger Wire](../images/everymask-step1.1-coat-hanger.jpg "EVERYMASK Harness Build Hanger Wire")
 
@@ -110,11 +110,11 @@ __3.2__ In the same way you chained the rubber bands together, fasten the loop t
 
 ![EVERYMASK Harness headstrap attach](../images/everymask-step3.2-attach.jpg "EVERYMASK Harness headstrap attach")
 
-__3.3__ Tie two regular overhand knots one after the other to connect the other end to the rubber band to complete the Harness. Will replace this method with a better knot ASAP!
+__3.3__ Tie two regular overhand knots one after the other to connect the other end to the rubber band to complete the harness.
 
 ![EVERYMASK Harness headstrap attach](../images/everymask-step3.3-attach2.jpg "EVERYMASK Harness headstrap attach")
 
-__3.4__ Your Harness is complete! Put the nose piece on, pull the rubber band down under your chin and lift the headstrap over your head to secure on the back. With the headstrap running over the top of your ears hold the knot and slide it along the cord that runs through it to tighten.
+__3.4__ Your harness is complete! Put the nose piece on, pull the rubber band down under your chin and lift the headstrap over your head to secure on the back. With the headstrap running over the top of your ears hold the knot and slide it along the cord that runs through it to tighten.
 
 If the rubber feels too tight try relaxing the strap or adding an extra band. The Harness clamps the filter material to the face so the aim is to get the band and nose piece fitting as closely to your facial contours as you can without being too tight and uncomfortable.
 
