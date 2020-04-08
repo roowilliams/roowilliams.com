@@ -17,23 +17,33 @@ comments: true
 It's 2020, a global pandemic of COVID-19 is under way. This virus can spread through airborne droplets expelled by anyone infected.
 Governments around the world have recommended wearing facemasks in an attempt to catch airborne viruses before they reach a persons airways.
 
-## The Problem
+## The Problems
 
+
+### Increased Chances of Infection
 If handled incorrectly, facemasks can actually increase a wearer's chances of infection. As one is worn, particles are drawn from the air by the breath towards the mouth getting caught by the mask. By handling the mask, say by dropping it down to eat and then sliding it back up all those particles come into contact with fingers or get smeared on the face.
 
 A recommendation is to treat a mask like a worn piece of underwear once removed. Wash it right away or if it's disposable, discard. This creates a problem where if only one mask is owned then it’s unavailable until washed.
 
-We also have a global mask shortage.
+### Discomfort
+If we are in this for the longhaul then prolonged wearing of masks may become a daily reality. Medical professionals and regular people alike don't even need to complain that the current masks on the market and DIY creations exert a <a href="https://news.sky.com/story/coronavirus-bruised-by-face-masks-nurses-show-the-impact-of-fighting-the-pandemic-11955457" target="_blank">lot of pressure</a> on the ears, bridge of nose and face - the pictures speak for themselves.
+
+![Italian Nurse with Mask Marks - From Instagram](../images/nurse-italy-mask-marks.jpg "Italian Nurse with Mask Marks - From Instagram")
+
+### Performance
+A common issue with masks is that they can leak with areas such as the bridge of the nose to the cheek and under the chin often cited as places of entry of particles during tests.
+
+### Shortage
+And then we have a <a href="https://www.usnews.com/news/best-countries/articles/2020-03-18/the-global-effort-to-tackle-the-coronavirus-face-mask-shortage" target="_blank">global mask shortage</a>.
 
 ## The Solution
 
-Enter __EVERYMASK__ - a DIY mask consisting of a harness that can tightly fit a rectangle of filter material to a person's face.
-This mask can be worn in public and at the end of the day, the filter material disposed of or washed and replaced with another. It uses an adjustable headstrap to avoid ear fatigue and the nose piece spreads tension across more of the nose and cheeks vs creating sores on the bridge.
+__EVERYMASK__ is a DIY mask that uses a custom harness to tightly fit a sheet of filter material to a person's face.
+It uses an adjustable headstrap to avoid ear fatigue and a custom-formed nose piece spreads tension across more of the nose and cheeks vs creating sores on the bridge.
 
-Some filter materials are better than others, and articles such as <a href="https://www.nytimes.com/article/coronavirus-homemade-mask-material-DIY-face-mask-ppe.html" target="_blank">this one by the New York Times</a> address that in more detail. 
-Personally I've read that two layers of 100% cotton such as from a t-shirt or pillowcase is a good place to start.
+After use the filter material can be easily disposed of or washed without the wearer having to touch the potentially contaminated filter material.
 
-By focusing on the harness I hope that a community of __EVERYMASK__ users can improvise on the filter's material and pattern and prevent more infections. Resources are limited at the moment, so this mask has been designed with <a href="https://www.nasa.gov/isru" target="_blank">NASA's ISRU principles</a> in mind.
+By focusing on the harness I hope that a community of __EVERYMASK__ users can improvise on the filter's material and pattern and prevent more infections. Resources are limited at the moment, so this mask has been designed with <a href="https://www.nasa.gov/isru" target="_blank">NASA's ISRU principles</a> in mind meaning that it can be made with commonplace household materials and a pair of pliers.
 
 ![EVERYMASK](../images/everymask-hero.jpg "EVERYMASK")
 
@@ -111,6 +121,8 @@ If the rubber feels too tight try relaxing the strap or adding an extra band. Th
 __4.1__ The filter is still in development, but in the examples I've shown I have used a 23 cm x 20 cm (9 in x 8 in) corner of a 100% cotton pillowcase giving me 2 layers. 
 
 ![EVERYMASK Harness filter](../images/everymask-step4.1-filter.jpg "EVERYMASK Harness filter")
+
+Some filter materials are better than others, and articles such as <a href="https://www.nytimes.com/article/coronavirus-homemade-mask-material-DIY-face-mask-ppe.html" target="_blank">this one by the New York Times</a> address that in more detail. 
 
 I clamp it by starting with the top edge. I hold it infront of my face to find the rough center, pinch that and push it under the nose piece, then I work my way out from there. Images coming soon.
 
