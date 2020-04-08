@@ -41,7 +41,7 @@ And then we have a <a href="https://www.usnews.com/news/best-countries/articles/
 __EVERYMASK__ is a DIY mask that uses a custom harness to tightly fit a sheet of filter material to a person's face.
 It uses an adjustable headstrap to avoid ear fatigue and a custom-formed nose piece spreads tension across more of the nose and cheeks vs creating sores on the bridge. By using an elastic loop around the face and pulling it in using the head strap a better seal is created.
 
-After use the filter material can be easily disposed of or washed without the wearer having to touch the potentially contaminated filter material.
+After use the filter material can be easily disposed of or washed without the wearer having to touch the potentially contaminated filter material, and because the wearer only replaces the filter portion they don't have to reset the comfort of the harness.
 
 By focusing on the harness I hope that a community of __EVERYMASK__ users can improvise on the filter's material and pattern and prevent more infections. Resources are limited at the moment, so this mask has been designed with <a href="https://www.nasa.gov/isru" target="_blank">NASA's ISRU principles</a> in mind meaning that it can be made with commonplace household materials and a pair of pliers.
 
