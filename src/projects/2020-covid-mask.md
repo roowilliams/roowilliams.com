@@ -8,7 +8,8 @@ publish: true
 comments: true
 ---
 
-### _Designed with as little as possible, for as many people as possible._ <!-- end -->
+<h2 style="text-align: center; margin: 0 0 4rem;">A DIY face mask designed with as little as possible, for as many people as possible.</h2><!-- end -->
+
 
 <div style="width: 100%; display: flex; flex-direction: column; align-items: center;"><div style="width:50%;height:0;padding-bottom:50%;position:relative;"><iframe src="https://giphy.com/embed/kBqiLu8DGZGecCBuME" width="100%" height="100%" style="position:absolute;" frameBorder="0" class="giphy-embed"></iframe></div></div>
 
