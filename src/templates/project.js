@@ -17,8 +17,14 @@ const Container = styled.div`
   position: relative;
   top: -100px; 
   background-color: rgba(255,255,255,0.9);
-
-
+  ${
+  media.lessThan("medium")`
+    padding: 2rem;
+  `}
+  ${
+  media.lessThan("small")`
+    padding: 1rem;
+  `}
   `
 const Post = styled.div``
 const Content = styled.div`
@@ -65,11 +71,18 @@ const BoldTitle = styled.h1`
   `}
 ${
   media.lessThan("medium")`
-  font-size: 4rem;
+  font-size: 3.4rem;
+  line-height: 0.9;
 `}
 ${
   media.between("small", "medium")`
   font-size: 3rem;
+  line-height: 0.9;
+`}
+${
+  media.lessThan("small")`
+  font-size: 3rem;
+  line-height: 0.9;
 `}
 `
 
