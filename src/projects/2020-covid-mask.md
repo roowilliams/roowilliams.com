@@ -134,18 +134,20 @@ I clamp it by starting with the top edge. I hold it infront of my face to find t
 
 ![EVERYMASK v2 Development](../images/everymask-v2-dev.jpg "EVERYMASK v2 Development")
 
-Since desinging the PROCESS for anyone to make an EVERYMASK I have switched gears and am now working on a more refined, purchasable version of EVERYMASK. If you'd like to be kept updated about its development and be the first to know when it is available please register your interest below. 
+Since designing the __PROCESS___ for anyone to make an EVERYMASK I have switched gears and am now designing the __PRODUCT__. I am working on a more refined, purchasable version of EVERYMASK. If you'd like to be kept updated about its development and be amongst the first to know when it is available please register your interest below. 
 
-I hate spam like the rest of us so I'll only email when I've got something worth telling you. Promise.
+
 
 <br />
-<form name="interest" method="POST" data-netlify="true">
+<form name="interest" method="POST" data-netlify="true" style="background-color: #cecece; padding: 1rem; display: flex; flex-direction: column; align-items: center; border-radius: 10px;">
+<h3>Register your Interest for EVERYMASK V2</h3>
   <p>
-    <label>Your Email: <input type="email" name="email" /></label>
+    <input type="email" name="email" placeholder="your@email.com" style="padding: 0.2rem; border: 0;border-radius: 3px;"/>
   </p>
   <p>
-    <button type="submit">Submit</button>
+    <button type="submit" style="background-color: #69b295; color:white; border: 0; border-radius: 3px; padding: 0.4rem 1rem;">Submit</button>
   </p>
+  <small>(I hate spam like the rest of us so I'll only email when I've got something worth telling you!)</small>
 </form>
 
 ## Other Resources
