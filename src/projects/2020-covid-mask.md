@@ -130,12 +130,34 @@ Some filter materials are better than others, and articles such as <a href="http
 
 I clamp it by starting with the top edge. I hold it infront of my face to find the rough center, pinch that and push it under the nose piece, then I work my way out from there. Images coming soon.
 
-## Please Share Your Builds
+## Other Resources
 
+- <a href="https://abishekmuthian.com/diy-qualitative-filter-face-mask/" target="_blank">DIY Qualitative filter face mask</a> - a mask idea from someone far more researched than I on the filter material. Has an idea of brining the filter material first _"Virus are deactivated by dissolving aerosol due to osmotic pressure and physical damage due to [salt] recrystallization."_
+- <a href="https://www.printyourmask.online/" target="_blank">printyourmask</a> - Love the idea although very doubtful that printer paper will allow air through and the fit doesn't look good. Style over substance perhaps.</a>
+
+## Sharing
 If you do create an __EVERYMASK__ please share it on social media with hashtag __#EVERYMASK__ so we can come together with ideas on how to improve it.
 
+## Version 2
 
-Reach out with any questions, comments or improvements in the comments section below.
+![EVERYMASK v2 Development](../images/everymask-v2-dev.jpg "EVERYMASK v2 Development")
+Since desinging the PROCESS for anyone to make an EVERYMASK I have switched gears and am now working on a more refined, purchasable version of EVERYMASK. If you'd like to be kept updated about its development and be the first to know when it is ready please register your interest by entering your email below. I hate spam like the rest of us so I'll only email when I've got something worth telling you.
+
+<br />
+<br />
+<form name="interest" method="POST" data-netlify="true">
+  <p>
+    <label>Your Email: <input type="email" name="email" /></label>
+  </p>
+  <p>
+    <button type="submit">Submit</button>
+  </p>
+</form>
+
+<br />
+<br />
+
+Reach out with any questions, comments or improvements in the comments section below or email me using the link in the page footer.
 
 You can view my <a href="https://www.instagram.com/stories/highlights/17887213792507206/" target="_blank">Instagram stories</a> to see how this project developed.
 

@@ -31,6 +31,12 @@ const IndexPage = ({
   return (
     <Layout>
       <SEO />
+      {
+        !!projects.length && <Section>
+          <SectionHeader>Projects</SectionHeader>
+          {projects}
+        </Section>
+      }
       {!!blogPosts.length &&
         <Section>
           <SectionHeader>Recent Blog Posts</SectionHeader>
@@ -40,12 +46,7 @@ const IndexPage = ({
           >View blog</SectionLink>
         </Section>
       }
-      {
-        !!projects.length && <Section>
-          <SectionHeader>Projects</SectionHeader>
-          {projects}
-        </Section>
-      }
+
     </Layout>
   )
 }
