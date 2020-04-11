@@ -42,7 +42,7 @@ And then we have a <a href="https://www.usnews.com/news/best-countries/articles/
 
 ## The Solution
 
-__EVERYMASK__ is a DIY mask that uses a custom harness to tightly fit a sheet of filter material to a person's face.
+__EVERYMASK__ is a DIY mask that uses a custom harness to tightly fit a sheet of filter material to a person's face. It's built with the idea that SOMETHING is better than nothing.
 It uses an adjustable headstrap to avoid ear fatigue and a custom-formed nose piece spreads tension across more of the nose and cheeks vs creating sores on the bridge. By using an elastic loop around the face and pulling it in using the head strap a better seal is created.
 
 After use the filter material can be easily disposed of or washed without the wearer having to touch the potentially contaminated filter material, and because the wearer only replaces the filter portion they don't have to reset the comfort of the harness.
@@ -59,7 +59,7 @@ There are two possible versions of the harness.
 ![EVERYMASK Harness](../images/everymask-face-frames.jpg "EVERYMASK Harness")
 
 - 1 uses a 3D printed nose piece, files are available on <a href="https://www.thingiverse.com/thing:4266151" target="_blank">Thingiverse</a> to print either a small or large version of these nose pieces. They were designed around my wife's and my own nose so there's a good chance the fit wont be perfect unless you can tweak your own 3D files. If you have access to a 3D printer go ahead and print this.
-- 2 uses a nose piece formed from a piece of stiff wire. Grab yourself a wire clothes hanger, a short nosed pliers and the printable template <a href="https://drive.google.com/file/d/1A2XI8fvE4TTh6kAMSWZiRk6TE4P8aZZH/view?usp=sharing" target="_blank">available here</a>.
+- 2 uses a nose piece formed from a piece of stiff wire. Grab yourself a wire clothes hanger, a pliers and the printable template <a href="https://drive.google.com/file/d/1A2XI8fvE4TTh6kAMSWZiRk6TE4P8aZZH/view?usp=sharing" target="_blank">available here</a>.
 
 To complete both versions you will also need:
 - A few rubber bands
