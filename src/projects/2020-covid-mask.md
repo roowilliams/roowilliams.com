@@ -42,7 +42,7 @@ And then we have a <a href="https://www.usnews.com/news/best-countries/articles/
 
 ## The Solution
 
-__EVERYMASK__ is a DIY mask that uses a custom harness to tightly fit a sheet of filter material to a person's face. It's built with the idea that SOMETHING is better than nothing.
+__EVERYMASK__ is a DIY, no sew mask that uses a custom harness to tightly fit a sheet of filter material to a person's face. It's built with the idea that SOMETHING is better than nothing.
 It uses an adjustable headstrap to avoid ear fatigue and a custom-formed nose piece spreads tension across more of the nose and cheeks vs creating sores on the bridge. By using an elastic loop around the face and pulling it in using the head strap a better seal is created.
 
 After use the filter material can be easily disposed of or washed without the wearer having to touch the potentially contaminated filter material, and because the wearer only replaces the filter portion they don't have to reset the comfort of the harness.
