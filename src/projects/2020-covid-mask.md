@@ -58,8 +58,8 @@ There are two possible versions of the harness.
 
 ![EVERYMASK Harness](../images/everymask-face-frames.jpg "EVERYMASK Harness")
 
-- A uses a 3D printed nose piece, files are available on <a href="https://www.thingiverse.com/thing:4266151" target="_blank">Thingiverse</a> to print either a small or large version of these nose pieces. They were designed around my wife's and my own nose so there's a good chance the fit wont be perfect unless you can tweak your own 3D files. If you have access to a 3D printer go ahead and print this.
-- B uses a nose piece formed from a piece of stiff wire. Grab yourself a wire clothes hanger, a pliers and the printable template <a href="https://drive.google.com/file/d/1A2XI8fvE4TTh6kAMSWZiRk6TE4P8aZZH/view?usp=sharing" target="_blank">available here</a>.
+- __A__ uses a 3D printed nose piece, files are available on <a href="https://www.thingiverse.com/thing:4266151" target="_blank">Thingiverse</a> to print either a small or large version of these nose pieces. They were designed around my wife's and my own nose so there's a good chance the fit wont be perfect unless you can tweak your own 3D files. If you have access to a 3D printer go ahead and print this.
+- __B__ uses a nose piece formed from a piece of stiff wire. Grab yourself a wire clothes hanger, a pliers and the printable template <a href="https://drive.google.com/file/d/1A2XI8fvE4TTh6kAMSWZiRk6TE4P8aZZH/view?usp=sharing" target="_blank">available here</a>.
 
 To complete both versions you will also need:
 - A few rubber bands
