@@ -50,7 +50,7 @@ After use the filter material can be easily disposed of or washed without the we
 By focusing on the harness I hope that a community of __EVERYMASK__ users can improvise on the filter's material and pattern and prevent more infections. Resources are limited at the moment, so this mask has been designed with <a href="https://www.nasa.gov/isru" target="_blank">NASA's ISRU principles</a> in mind meaning that it can be made with commonplace household materials and a pair of pliers.
 
 ![EVERYMASK](../images/everymask-hero.jpg "EVERYMASK")
-
+![EVERYMASK DIY Mask Makers](../images/diy-mask-makers.jpg "EVERYMASK DIY Mask Makers")
 ## Instructions
 
 ### Materials
