@@ -126,7 +126,7 @@ __4.1__ The filter is still in development, but in the examples I've shown I hav
 
 ![EVERYMASK Harness filter](../images/everymask-step4.1-filter.jpg "EVERYMASK Harness filter")
 
-Some filter materials are better than others, and articles such as <a href="https://www.nytimes.com/article/coronavirus-homemade-mask-material-DIY-face-mask-ppe.html" target="_blank">this one by the New York Times</a> address that in more detail.
+Some filter materials are better than others, and articles such as <a href="https://www.nytimes.com/article/coronavirus-homemade-mask-material-DIY-face-mask-ppe.html" target="_blank">this one by the New York Times</a> and <a href="https://smartairfilters.com/en/blog/best-materials-make-diy-face-mask-virus/?fbclid=IwAR1hW_Tb4y3e6qAk89yaPviMcxwlV1QqAHovcqPWF9nFpV-SRNMN6RKicY0" target="_blank">this one</a> address that in greater detail.
 
 I clamp it by starting with the top edge. I hold it infront of my face to find the rough center, pinch that and push it under the nose piece, then I work my way out from there. Images coming soon.
 
@@ -152,7 +152,7 @@ Since designing the __PROCESS__ for anyone to make an EVERYMASK I have switched 
 
 ## Other Resources
 
-- <a href="https://smartairfilters.com/en/blog/best-materials-make-diy-face-mask-virus/?fbclid=IwAR1hW_Tb4y3e6qAk89yaPviMcxwlV1QqAHovcqPWF9nFpV-SRNMN6RKicY0">What Are The Best Materials for Making DIY Masks?</a>
+- <a href="https://smartairfilters.com/en/blog/best-materials-make-diy-face-mask-virus/?fbclid=IwAR1hW_Tb4y3e6qAk89yaPviMcxwlV1QqAHovcqPWF9nFpV-SRNMN6RKicY0" target="_blank">What Are The Best Materials for Making DIY Masks?</a>
 - <a href="https://abishekmuthian.com/diy-qualitative-filter-face-mask/" target="_blank">DIY Qualitative filter face mask</a> - a mask idea from someone far more researched than I on the filter material. Has an idea of brining the filter material first _"Virus are deactivated by dissolving aerosol due to osmotic pressure and physical damage due to [salt] recrystallization."_
 - <a href="http://rgproduct.blogspot.com/2020/03/simple-face-mask-shrek-frame-and-filter.html?m=1" target="_blank">DIY Mask by rgproduct/Richard Grant</a>
 - <a href="https://www.printyourmask.online/" target="_blank">printyourmask</a> - Love the idea and design aesthetic although very doubtful that printer paper will allow air through and the fit doesn't look good so it will end up drawing unfiltered air in from around the sides. Style over substance perhaps.</a>
