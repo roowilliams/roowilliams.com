@@ -126,7 +126,7 @@ __4.1__ The filter is still in development, but in the examples I've shown I hav
 
 ![EVERYMASK Harness filter](../images/everymask-step4.1-filter.jpg "EVERYMASK Harness filter")
 
-Some filter materials are better than others, and articles such as <a href="https://www.nytimes.com/article/coronavirus-homemade-mask-material-DIY-face-mask-ppe.html" target="_blank">this one by the New York Times</a> address that in more detail. 
+Some filter materials are better than others, and articles such as <a href="https://www.nytimes.com/article/coronavirus-homemade-mask-material-DIY-face-mask-ppe.html" target="_blank">this one by the New York Times</a> address that in more detail.
 
 I clamp it by starting with the top edge. I hold it infront of my face to find the rough center, pinch that and push it under the nose piece, then I work my way out from there. Images coming soon.
 
@@ -152,6 +152,7 @@ Since designing the __PROCESS__ for anyone to make an EVERYMASK I have switched 
 
 ## Other Resources
 
+- <a href="https://products.halyardhealth.com/surgical-solutions/sterilization-solutions/sterilization-wraps/halyard-sequential-sterilization-wrap.html#wrap_fabric_weight_246">
 - <a href="https://abishekmuthian.com/diy-qualitative-filter-face-mask/" target="_blank">DIY Qualitative filter face mask</a> - a mask idea from someone far more researched than I on the filter material. Has an idea of brining the filter material first _"Virus are deactivated by dissolving aerosol due to osmotic pressure and physical damage due to [salt] recrystallization."_
 - <a href="http://rgproduct.blogspot.com/2020/03/simple-face-mask-shrek-frame-and-filter.html?m=1" target="_blank">DIY Mask by rgproduct/Richard Grant</a>
 - <a href="https://www.printyourmask.online/" target="_blank">printyourmask</a> - Love the idea and design aesthetic although very doubtful that printer paper will allow air through and the fit doesn't look good so it will end up drawing unfiltered air in from around the sides. Style over substance perhaps.</a>
@@ -159,11 +160,9 @@ Since designing the __PROCESS__ for anyone to make an EVERYMASK I have switched 
 ## Sharing + Improvements + Process
 If you do create an __EVERYMASK__ please share it on social media with hashtag __#EVERYMASK__ so we can come together with ideas on how to improve it.
 
-Feel free to reach out with any questions, comments or improvements in the comments section below or email me using the link in the page footer.
+You can view my <a href="https://www.instagram.com/stories/highlights/17887213792507206/" target="_blank">Instagram stories</a> for a glimpse into my process and to see how this project developed.
 
-You can view my <a href="https://www.instagram.com/stories/highlights/17887213792507206/" target="_blank">Instagram stories</a> to see how this project developed.
-
-I am offering this for free but if you'd like to help me pay for material costs for continued development, maybe even a haircut once this is all over, tips are graciously accepted via <a href="https://paypal.me/roowilliams12" target="_blank">PayPal</a>. 
+Feel free to reach out with any questions, comments or improvements in the comments section below or email me using the link in the page footer and if you'd like to help me pay for material costs for continued development, maybe even a haircut once this is all over, contributions are graciously accepted via <a href="https://paypal.me/roowilliams12" target="_blank">PayPal</a>. 
 
 Stay safe.
 
