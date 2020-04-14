@@ -37,7 +37,7 @@ export default () => (
         About
         </SectionHeader>
       <p style={{ color: "rgba(255,255,255,0.4)" }}>
-        British designer+maker of physical+digital things living in Portland,
+        British designer+developer+maker of physical+digital things living in Portland,
         Oregon.
           <br />
         <Past>
