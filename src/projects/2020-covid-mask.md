@@ -134,7 +134,9 @@ I clamp it by starting with the top edge. I hold it infront of my face to find t
 
 ![EVERYMASK v2 Development](../images/everymask-v2-dev.jpg "EVERYMASK v2 Development")
 
-Since designing the __PROCESS__ for anyone to make an EVERYMASK I have switched gears and am now designing the __PRODUCT__. I am working on a more refined, purchasable version of EVERYMASK. If you'd like to be kept updated about its development and be amongst the first to know when it is available please register your interest below. 
+Since designing the __PROCESS__ for anyone to make an EVERYMASK I have switched gears and am now designing the __PRODUCT__ - a more refined version of EVERYMASK. 
+
+If you'd like to be kept updated about its development and be amongst the first to know when it is available please register your interest below. 
 
 
 
