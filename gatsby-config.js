@@ -59,6 +59,7 @@ module.exports = {
       options: {
         excerpt_separator: `<!-- end -->`,
         plugins: [
+
           {
             resolve: `gatsby-remark-images`,
             options: {
@@ -66,8 +67,18 @@ module.exports = {
               // the content container as this plugin uses this as the
               // base for generating different widths of each image.
               maxWidth: 700,
+              disableBgImageOnAlpha: true
             },
           },
+          {
+            resolve: "gatsby-remark-copy-linked-files",
+            options: {
+              ignoreFileExtensions: ["png", "jpg", "jpeg"]
+            }
+          },
+          {
+            resolve: "gatsby-remark-image-attributes"
+          }
         ],
       },
     },

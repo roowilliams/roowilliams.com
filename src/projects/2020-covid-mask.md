@@ -162,9 +162,15 @@ If you do create an __EVERYMASK__ please share it on social media with hashtag _
 
 You can view my <a href="https://www.instagram.com/stories/highlights/17887213792507206/" target="_blank">Instagram stories</a> for a glimpse into my process and to see how this project developed.
 
-Feel free to reach out with any questions, comments or improvements in the comments section below or email me using the link in the page footer and if you'd like to help me pay for material costs for continued development, maybe even a haircut once this is all over, contributions are graciously accepted via <a href="https://paypal.me/roowilliams12" target="_blank">PayPal</a>. 
+![EVERYMASK v2 Development Process](../images/everymask-process.jpg)
 
-Stay safe.
+Feel free to reach out with any questions, comments or improvements in the comments section below or email me using the link in the page footer and if you'd like to help me pay for material costs for continued development, costs for buying the domain, getting this out there with some instagram promotion ads or maybe even a haircut once this is all over, contributions are graciously accepted via <a href="https://paypal.me/roowilliams12" target="_blank">PayPal<a/>
+
+<a href="https://paypal.me/roowilliams12" target="_blank"><img src="../images/paypal-donate-button.png#width=40px;" alt="PayPal donate button"></a> 
+
+
+<br />
+Please stay safe, we'll get through this.
 
 
 <br />
