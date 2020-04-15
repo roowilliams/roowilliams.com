@@ -112,7 +112,7 @@ __3.2__ In the same way you chained the rubber bands together, fasten the loop t
 
 ![EVERYMASK Harness headstrap attach](../images/everymask-step3.2-attach.jpg "EVERYMASK Harness headstrap attach")
 
-__3.3__ Tie two regular overhand knots one after the other to connect the other end to the rubber band to complete the harness.
+__3.3__ Secure the other end to the rubber band to complete the harness using a <a href="https://www.animatedknots.com/davy-knot" target="_blank">Davy Knot</a>.
 
 ![EVERYMASK Harness headstrap attach](../images/everymask-step3.3-attach2.jpg "EVERYMASK Harness headstrap attach")
 
