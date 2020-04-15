@@ -75,9 +75,6 @@ module.exports = {
             options: {
               ignoreFileExtensions: ["png", "jpg", "jpeg"]
             }
-          },
-          {
-            resolve: "gatsby-remark-image-attributes"
           }
         ],
       },

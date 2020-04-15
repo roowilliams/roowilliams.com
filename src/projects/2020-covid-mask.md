@@ -133,12 +133,11 @@ I clamp it by starting with the top edge. I hold it infront of my face to find t
 ## Version 2
 
 ![EVERYMASK v2 Development](../images/everymask-v2-dev.jpg "EVERYMASK v2 Development")
+![EVERYMASK v2 Development](../images/everymask-v2-dev-4-14.jpg "EVERYMASK v2 Development")
 
 Since designing the __PROCESS__ for anyone to make an EVERYMASK I have switched gears and am now designing the __PRODUCT__ - a more refined version of EVERYMASK. 
 
 If you'd like to be kept updated about its development and be amongst the first to know when it is available please register your interest below. 
-
-
 
 <br />
 <form name="interest" method="POST" data-netlify="true" style="background-color: #cecece; padding: 1rem; display: flex; flex-direction: column; align-items: center; border-radius: 10px;">
@@ -168,7 +167,7 @@ You can view my <a href="https://www.instagram.com/stories/highlights/1788721379
 
 Feel free to reach out with any questions, comments or improvements in the comments section below or email me using the link in the page footer and if you'd like to help me pay for material costs for continued development, costs for buying the domain, getting this out there with some instagram promotion ads or maybe even a haircut once this is all over, contributions are graciously accepted via <a href="https://paypal.me/roowilliams12" target="_blank">PayPal<a/>
 
-<a href="https://paypal.me/roowilliams12" target="_blank"><img src="../images/paypal-donate-button.png#width=40px;" alt="PayPal donate button"></a> 
+<a href="https://paypal.me/roowilliams12" target="_blank"><img src="../images/paypal-donate-button.png" alt="PayPal donate button"></a> 
 
 
 <br />
