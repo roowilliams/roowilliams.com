@@ -167,7 +167,10 @@ You can view my <a href="https://www.instagram.com/stories/highlights/1788721379
 
 ![EVERYMASK v2 Development Process](../images/everymask-process.jpg)
 
-Feel free to reach out with any questions, comments or improvements in the comments section below or email me using the link in the page footer and if you'd like to help me pay for material costs for continued development, costs for buying the domain, getting this out there with some instagram promotion ads or maybe even a haircut once this is all over, contributions are graciously accepted via <a href="https://paypal.me/roowilliams12" target="_blank">PayPal<a/>.
+Feel free to reach out with any questions, comments or improvements in the comments section below or email me using the link in the page footer.
+
+## Contribute
+If you've found this design useful and you'd like to help get it out there with Instagram/Facebook promotions so more people can protect themselves, or you'd just like to say "thanks!", contributions of any size are very welcome and accepted via <a href="https://paypal.me/roowilliams12" target="_blank">PayPal<a/>.
 
 <a href="https://paypal.me/roowilliams12" target="_blank"><img src="../images/paypal-donate-button.png" alt="PayPal donate button"></a> 
 
