@@ -65,7 +65,7 @@ There are two possible versions of the harness.
 
 To complete both versions you will also need:
 - A few rubber bands
-- 80 cm (~32 inches) of string - ideally thin, nylon cord like kite string or sash cord.
+- 80 cm (~32 inches) of string or cord.
 
 ### Build
 
