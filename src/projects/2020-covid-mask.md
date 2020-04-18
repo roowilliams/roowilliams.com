@@ -69,6 +69,11 @@ To complete both versions you will also need:
 
 ### Build
 
+Follow along with this build video:
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/9UHbpkhEs48' frameborder='0' allowfullscreen></iframe></div>
+
+<br />
+
 #### 1. Nose Piece (Wire)
 
 ![EVERYMASK Nose Piece](../images/everymask-nosepieces.jpg "EVERYMASK Nose Pieces")
@@ -84,8 +89,6 @@ __1.2__ Starting from the ends, use a short nose pliers to bend the hooks that w
 __1.3__ Finish the nose piece by forming the curve that will fit over the bridge of your nose. This is the trickiest part of the process, don't worry if it's not perfect.
 
 ![EVERYMASK Harness Build Forming the Wire](../images/everymask-step1.3-forming.jpg "EVERYMASK Harness Build Forming the Wire")
-
-
 
 #### 2. Elastic
 __2.1__ Chain enough rubber bands together to make around a 22-26 cm (9-9.8 inches) length. This part controls the fit to the face, you want that to be tight enough that it creates a good seal, but loose enough to be comfortable. You may need to jump back to this step after testing the fit. 
