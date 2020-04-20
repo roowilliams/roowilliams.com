@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "Roo Williams",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "A personal portfolio and blog built off the Gatsby starter repo.",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Roo Williams <roo@roowilliams.com>",
   "dependencies": {
     "babel-plugin-styled-components": "^1.10.6",
     "gatsby": "^2.18.12",
