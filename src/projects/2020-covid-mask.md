@@ -133,7 +133,16 @@ __4.1__ The filter is still in development, but in the examples I've shown I hav
 
 Some filter materials are better than others, and articles such as <a href="https://www.nytimes.com/article/coronavirus-homemade-mask-material-DIY-face-mask-ppe.html" target="_blank">this one by the New York Times</a> and <a href="https://smartairfilters.com/en/blog/best-materials-make-diy-face-mask-virus/?fbclid=IwAR1hW_Tb4y3e6qAk89yaPviMcxwlV1QqAHovcqPWF9nFpV-SRNMN6RKicY0" target="_blank">this one</a> address that in greater detail.
 
-I clamp it by starting with the top edge. I hold it infront of my face to find the rough center, pinch that and push it under the nose piece, then I work my way out from there. Images coming soon.
+I clamp it by starting with the top edge. I hold it in front of my face to find the rough center, pinch that and push it under the nose piece, then I work my way out from there.
+
+This video by <a href="http://instagram.com/callmedulka" target="_blank">@callmedulka</a> shows us how it's done.
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/eeUgmeguOs8' frameborder='0' allowfullscreen></iframe></div>
+
+<br />
+In my relatively short wear tests I’ve not experienced any nose bridge comfort issues - if the wire is formed to a good fit the tension should be spread along the length of the wire, so onto the cheeks too. 
+
+The filter material goes between the wire and your skin - that provides an opportunity to double over the filter material along the top and even insert a piece of thin sponge or something similar into the pocket formed by folding so there’s scope to improve comfort if needed without any modification to the harness nose piece.
 
 ## Version 2
 
