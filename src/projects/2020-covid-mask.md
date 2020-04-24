@@ -64,7 +64,7 @@ There are two possible versions of the harness.
 ![DIY Mask Sources of Wire](../images/diy-mask-wire-sources.jpg "DIY Mask Sources of Wire")
 
 To complete both versions you will also need:
-- A few rubber bands
+- A few rubber bands (warning: if the wearer has a latex allergy be sure to use a non-latex elastic)
 - 80 cm (~32 inches) of string or cord.
 
 ### Build
