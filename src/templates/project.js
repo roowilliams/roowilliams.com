@@ -15,20 +15,21 @@ const Container = styled.div`
   margin: 0 auto;
   padding: 3rem 4rem 2rem;
   position: relative;
-  top: -100px; 
-  background-color: rgba(255,255,255,0.9);
-  ${
+  ${props => props.useCover && `top: -100px;`}
+  background-color: rgba(255, 255, 255, 0.9);
+${
   media.lessThan("medium")`
     padding: 2rem;
   `}
-  ${
+${
   media.lessThan("small")`
     padding: 1rem;
   `}
-  `
+`
 const Post = styled.div``
+
 const Content = styled.div`
-  margin: 0;
+margin: 0;
 `
 
 const Cover = ({ className, image, children }) => {
@@ -45,27 +46,27 @@ const Cover = ({ className, image, children }) => {
 }
 
 const StyledCover = styled(Cover)`
-  width: 100%;
-  height: 800px;
-  background-position: bottom center;
-  background-repeat: repeat-y;
-  background-size: cover;
-  padding: 3rem;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
+width: 100 %;
+height: 800px;
+background-position: bottom center;
+background-repeat: repeat - y;
+background-size: cover;
+padding: 3rem;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
 `
 
 const BoldTitle = styled.h1`
-  font-size: 8rem;
-  font-weight: 700;
-  font-family: 'Montserrat';
-  font-weight: 800;
-  line-height: 0.8;
-  text-align: center;
-  color: rgba(0, 0, 0, 1);
-  ${
+font-size: 8rem;
+font-weight: 700;
+font-family: 'Montserrat';
+font-weight: 800;
+line-height: 0.8;
+text-align: center;
+color: rgba(0, 0, 0, 1);
+${
   media.lessThan("large")`
     font-size: 5rem;
   `}
@@ -96,7 +97,7 @@ export default function Template({
     <Layout>
       <SEO title={frontmatter.title} description={excerpt} image={frontmatter.featuredImage ? frontmatter.featuredImage.childImageSharp.fluid.src : false} />
       {frontmatter.coverImage && <StyledCover image={frontmatter.coverImage.childImageSharp.fluid}><BoldTitle>{frontmatter.title}</BoldTitle></StyledCover>}
-      <Container>
+      <Container useCover={!!frontmatter.coverImage}>
         <Post>
           {!frontmatter.coverImage && <Title>{frontmatter.title}</Title>}
           {!frontmatter.coverImage && <Date>{frontmatter.date}</Date>}
