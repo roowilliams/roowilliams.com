@@ -171,6 +171,7 @@ If you'd like to be kept updated about its development and be amongst the first 
 - <a href="https://abishekmuthian.com/diy-qualitative-filter-face-mask/" target="_blank">DIY Qualitative filter face mask</a> - a mask idea from someone far more researched than I on the filter material. Has an idea of brining the filter material first _"Virus are deactivated by dissolving aerosol due to osmotic pressure and physical damage due to [salt] recrystallization."_
 - <a href="http://rgproduct.blogspot.com/2020/03/simple-face-mask-shrek-frame-and-filter.html?m=1" target="_blank">DIY Mask by rgproduct/Richard Grant</a>
 - <a href="https://www.printyourmask.online/" target="_blank">printyourmask</a> - Love the idea and design aesthetic although very doubtful that printer paper will allow air through and the fit doesn't look good so it will end up drawing unfiltered air in from around the sides. Style over substance perhaps.</a>
+- <a href="https://happydiyhome.com/diy-face-mask/" target="_blank">5 Types of DIY Facemask</a> - mostly sewing required but there's a quick and easy no-sew mask made from a t-shirt and a bandana option.
 
 ## Sharing + Improvements + Process
 If you do create an __EVERYMASK__ please share it on social media with hashtag __#EVERYMASK__ so we can come together with ideas on how to improve it.
