@@ -32,18 +32,16 @@ const Content = styled.div`
 margin: 0;
 `
 
-const Cover = ({ className, image, children }) => {
-  console.log(className, image)
-  return (
-    <BackgroundImage
-      Tag="div"
-      fluid={image}
-      className={className}
-    >
-      {children}
-    </BackgroundImage>
-  )
-}
+const Cover = ({ className, image, children }) => (
+  <BackgroundImage
+    Tag="div"
+    fluid={image}
+    className={className}
+  >
+    {children}
+  </BackgroundImage>
+)
+
 
 const StyledCover = styled(Cover)`
 width: 100 %;
